@@ -1,0 +1,501 @@
+Brand,Model,Price_INR,Cost_INR,Profit_INR,Storage_GB,RAM_GB,Battery_mAh,Screen_Size_Inch,Camera_MP,Rating,Reviews_Count,Units_Sold,Sales_Channel,Region,Country,Launch_Date,Warranty_Years,Discount_Percent,Return_Rate_Percent
+Samsung,Galaxy A72,57282.0,,23306.0,256.0,8.0,4877.0,6.5,50,4.6,19881,138216,Online,Europe,Iceland,2023-01-21,1,35.0,9.68
+Samsung,Galaxy Z Flip,37134.0,28448.0,8686.0,512.0,8.0,4155.0,6.2,64,3.7,14611,554712,Online,South America,Kenya,2025-05-01,2,9.0,3.38
+Samsung,Galaxy Z Flip,59997.0,,5315.0,64.0,12.0,4660.0,6.4,108,5.0,9812,348108,Online,Europe,Brunei Darussalam,2023-11-24,1,37.0,8.5
+Samsung,Galaxy Z Flip,92675.0,25381.0,67294.0,512.0,12.0,4287.0,6.1,108,4.8,25971,17454,Online,North America,Estonia,2025-12-03,1,37.0,2.9
+Samsung,Galaxy S22,115568.0,41110.0,74458.0,512.0,12.0,3589.0,6.2,64,4.6,15526,492807,Online,Asia,Bangladesh,2024-04-04,2,14.0,6.94
+Samsung,Galaxy Z Flip,,24530.0,18810.0,256.0,8.0,5454.0,6.9,108,3.9,15132,19541,Retail Store,South America,Cameroon,2022-07-13,2,35.0,8.14
+Samsung,Galaxy S22,84651.0,22801.0,61850.0,256.0,,4438.0,6.4,108,4.1,23847,255822,Online,North America,Maldives,2025-06-21,2,,2.0
+Samsung,Galaxy A72,52299.0,21298.0,31001.0,256.0,6.0,3669.0,6.7,108,,15019,470226,Online,Asia,Greece,2023-11-30,1,35.0,1.78
+Samsung,Galaxy A72,98451.0,45369.0,53082.0,256.0,12.0,4776.0,6.3,50,3.9,1631,138104,Offline,Asia,Turkey,2024-04-28,1,22.0,6.13
+Samsung,Galaxy S22,90695.0,58831.0,31864.0,256.0,12.0,5845.0,6.5,64,4.4,6879,564968,Offline,Asia,,2025-07-12,2,27.0,7.12
+Samsung,Galaxy Z Flip,103084.0,37827.0,65257.0,,12.0,5115.0,6.6,64,4.8,20327,293188,Online,Europe,Syrian Arab Republic,2024-03-01,2,19.0,6.43
+Samsung,Galaxy A52,41320.0,,9064.0,256.0,12.0,5837.0,6.8,50,4.9,11889,22261,Online,Europe,Algeria,2023-01-08,2,9.0,7.63
+Samsung,Galaxy S21,,43966.0,61635.0,64.0,8.0,4765.0,6.9,64,4.9,10424,371392,Online,South America,Monaco,2024-01-01,1,27.0,2.24
+Samsung,Galaxy S22,113518.0,71376.0,42142.0,,8.0,5064.0,6.1,108,3.5,4755,478876,Online,North America,Australia,2025-03-14,1,35.0,4.07
+Samsung,Galaxy Z Flip,60630.0,,10575.0,256.0,12.0,5888.0,6.2,50,3.5,23391,326596,Retail Store,South America,Norfolk Island,2024-10-22,1,32.0,6.79
+Samsung,Galaxy S22,87119.0,60983.0,26136.0,256.0,8.0,3531.0,6.3,64,,4086,472878,Offline,North America,,2025-01-15,2,26.0,2.83
+Samsung,Galaxy Z Flip,79753.0,48246.0,31507.0,64.0,6.0,3705.0,6.5,64,5.0,29625,532960,Online,Asia,New Caledonia,2024-04-06,2,17.0,5.1
+Samsung,Galaxy A72,110242.0,27966.0,82276.0,256.0,8.0,5925.0,6.4,108,5.0,25689,41768,Online,Asia,Bahrain,2021-12-15,2,39.0,6.97
+Samsung,Galaxy S22,72781.0,,15661.0,256.0,,5648.0,6.5,108,4.5,28641,569698,Retail Store,Europe,Brunei Darussalam,2024-06-17,1,14.0,3.72
+Samsung,Galaxy S21,115872.0,46216.0,69656.0,512.0,12.0,5063.0,6.7,64,4.2,5620,179340,Retail Store,Europe,Liberia,2025-01-20,2,,8.3
+Samsung,Galaxy S23,101212.0,69858.0,31354.0,256.0,,,6.3,108,4.6,4417,460823,Offline,South America,Kyrgyz Republic,2022-03-27,2,21.0,3.58
+Samsung,Galaxy Z Flip,58296.0,50242.0,8054.0,128.0,,5030.0,,64,4.5,5197,122845,Offline,Europe,Timor-Leste,2025-09-07,2,38.0,7.8
+Samsung,Galaxy A72,68294.0,44596.0,23698.0,64.0,8.0,4856.0,6.8,50,4.5,21543,427222,Retail Store,Europe,Cocos (Keeling) Islands,2022-01-22,2,10.0,2.71
+Samsung,Galaxy Z Flip,,31782.0,9511.0,256.0,8.0,5160.0,6.3,64,4.2,6153,166950,Offline,Asia,Burundi,2023-07-19,1,7.0,7.99
+Samsung,Galaxy S23,119714.0,48176.0,71538.0,512.0,12.0,,6.2,50,3.9,8601,5894,Online,South America,Guinea-Bissau,2024-08-06,2,5.0,7.71
+Samsung,Galaxy S23,75118.0,33456.0,41662.0,256.0,6.0,,6.3,64,3.8,16421,396807,Online,Asia,Nicaragua,2025-01-25,1,28.0,6.18
+Samsung,Galaxy S21,117936.0,23974.0,93962.0,128.0,8.0,4036.0,,64,,23181,125130,Offline,Asia,Swaziland,2025-11-24,1,21.0,9.55
+Samsung,Galaxy A72,,62645.0,,256.0,,3919.0,6.1,50,3.6,8624,558784,Retail Store,North America,United Kingdom,2025-02-06,2,39.0,4.11
+Samsung,Galaxy A52,72090.0,49017.0,23073.0,64.0,6.0,3962.0,6.7,108,5.0,22856,519844,Online,South America,Swaziland,2022-11-14,2,30.0,9.07
+Samsung,Galaxy A52,68538.0,32965.0,35573.0,64.0,8.0,5849.0,6.1,108,4.3,13211,121829,Online,Asia,French Guiana,2024-12-18,1,8.0,2.6
+Samsung,Galaxy S23,52757.0,39171.0,13586.0,128.0,8.0,3566.0,6.4,64,4.3,6166,124581,Offline,Asia,New Zealand,2022-12-17,2,40.0,5.97
+Samsung,Galaxy A72,101472.0,86349.0,15123.0,256.0,6.0,4909.0,6.5,64,4.3,17625,46735,Retail Store,Europe,Gibraltar,2025-09-16,1,10.0,5.45
+Samsung,Galaxy S23,71696.0,46367.0,25329.0,128.0,6.0,4415.0,,50,4.3,11875,485181,Online,Europe,Isle of Man,2025-11-30,2,9.0,2.46
+Samsung,Galaxy Z Flip,96502.0,66057.0,30445.0,128.0,,4220.0,6.8,50,4.1,28215,209904,Retail Store,Asia,Cook Islands,2022-04-20,1,38.0,2.06
+Samsung,Galaxy Z Flip,82685.0,72435.0,10250.0,64.0,12.0,4433.0,6.9,108,4.8,23580,85099,Offline,South America,Guinea-Bissau,2022-01-26,1,25.0,2.06
+Samsung,Galaxy S23,33624.0,26634.0,6990.0,256.0,8.0,4865.0,6.8,50,4.6,27191,571137,Offline,Europe,,2022-06-09,1,14.0,6.08
+Samsung,Galaxy A52,56649.0,46210.0,10439.0,128.0,12.0,5721.0,6.8,50,3.9,13503,414648,Offline,North America,,2023-03-28,1,32.0,1.71
+Samsung,Galaxy A72,38074.0,26329.0,11745.0,128.0,6.0,4497.0,6.5,108,4.6,12172,378053,Offline,Europe,Iceland,2024-12-10,2,14.0,5.68
+Samsung,Galaxy S23,40368.0,23365.0,17003.0,512.0,12.0,5092.0,6.2,64,,19712,108239,Retail Store,Asia,Taiwan,2024-12-07,2,21.0,5.52
+Samsung,Galaxy S21,118508.0,108325.0,10183.0,128.0,12.0,4490.0,6.6,50,3.8,21763,129066,Retail Store,South America,Bulgaria,2024-11-24,1,35.0,3.26
+Samsung,Galaxy A72,,27517.0,31287.0,256.0,12.0,4108.0,6.7,64,5.0,8222,499477,Offline,South America,North Macedonia,2025-05-25,1,36.0,2.31
+Samsung,Galaxy A72,40874.0,29442.0,11432.0,64.0,6.0,4089.0,6.2,64,4.7,28080,471875,Offline,North America,Estonia,2022-02-01,2,30.0,7.13
+Samsung,Galaxy S21,113123.0,94524.0,18599.0,128.0,12.0,4813.0,6.5,64,4.5,28405,222074,Retail Store,Asia,,2025-01-21,2,36.0,5.78
+Samsung,Galaxy Z Flip,44472.0,31597.0,12875.0,128.0,12.0,5079.0,6.2,50,4.0,18614,324420,Offline,Europe,Congo,2025-01-20,1,10.0,4.92
+Samsung,Galaxy S23,78713.0,59896.0,18817.0,64.0,12.0,4502.0,6.3,108,4.5,2135,392373,Online,South America,Mongolia,2022-01-13,1,32.0,7.98
+Samsung,Galaxy A72,86368.0,46090.0,40278.0,64.0,8.0,5998.0,6.4,50,3.8,28145,477806,Retail Store,Europe,South Africa,2024-01-28,2,14.0,6.39
+Samsung,Galaxy S21,62391.0,28466.0,33925.0,64.0,8.0,4394.0,6.7,50,4.9,26219,555289,Offline,Europe,Slovakia (Slovak Republic),2024-06-07,2,6.0,4.11
+Samsung,Galaxy S22,71593.0,39136.0,32457.0,64.0,12.0,5378.0,6.1,108,3.9,2987,380208,Retail Store,Europe,Ecuador,2022-01-18,2,,8.72
+Samsung,Galaxy A72,,,7092.0,128.0,8.0,5607.0,,108,4.5,9847,391040,Offline,Europe,Kiribati,2024-10-22,2,30.0,7.43
+Samsung,Galaxy Z Flip,56000.0,42888.0,13112.0,,12.0,3821.0,6.3,50,4.4,4834,273793,Offline,South America,Montenegro,2022-10-29,2,39.0,4.79
+Samsung,Galaxy A52,69791.0,39808.0,29983.0,512.0,8.0,4207.0,,108,,23693,30777,Retail Store,Asia,Hungary,2025-11-01,2,,6.71
+Samsung,Galaxy S21,31591.0,23402.0,8189.0,128.0,,5346.0,6.8,108,4.7,10318,520644,Online,North America,Barbados,2025-03-14,2,12.0,5.37
+Samsung,Galaxy A52,,65048.0,13248.0,,6.0,5916.0,6.3,50,4.8,18564,187397,Retail Store,South America,Andorra,2023-03-21,1,8.0,3.98
+Samsung,Galaxy S22,32730.0,27871.0,4859.0,64.0,6.0,4037.0,6.2,50,4.8,23001,169075,Offline,South America,Tuvalu,2022-07-29,2,15.0,4.03
+Samsung,Galaxy S23,31173.0,24027.0,7146.0,256.0,6.0,3949.0,6.6,50,4.8,23369,188828,Retail Store,South America,Somalia,2025-09-25,1,14.0,8.48
+Samsung,Galaxy A52,,37380.0,5915.0,128.0,12.0,4717.0,,64,3.8,5026,359677,Retail Store,Europe,Kiribati,2025-02-18,2,30.0,5.61
+Samsung,Galaxy A52,50421.0,23528.0,26893.0,256.0,8.0,,6.6,64,4.2,18458,290646,Retail Store,North America,Tokelau,2025-05-05,1,18.0,6.62
+Samsung,Galaxy S22,,39197.0,25260.0,256.0,8.0,4859.0,6.6,50,4.5,21860,382185,Online,Europe,Saint Martin,2025-06-13,2,20.0,4.81
+Samsung,Galaxy A52,92339.0,57574.0,34765.0,512.0,12.0,,6.5,108,4.7,25122,40297,Offline,Europe,Peru,2025-07-08,1,7.0,2.32
+Samsung,Galaxy A52,82328.0,60246.0,22082.0,64.0,,3525.0,,108,3.7,8931,235657,Retail Store,North America,French Southern Territories,2023-08-05,1,,2.84
+Samsung,Galaxy S21,33179.0,21443.0,11736.0,128.0,12.0,4957.0,6.5,50,4.1,10020,535425,Retail Store,Europe,Kiribati,2025-08-20,1,8.0,8.29
+Samsung,Galaxy S23,109789.0,26168.0,83621.0,256.0,8.0,5493.0,6.1,64,3.9,8998,195694,Offline,South America,Mauritius,2022-08-24,1,22.0,4.94
+Samsung,Galaxy Z Flip,48986.0,25003.0,23983.0,512.0,12.0,4071.0,6.1,50,4.2,9759,395845,Online,South America,Korea,2024-12-15,1,9.0,8.91
+Samsung,Galaxy Z Flip,32991.0,28658.0,4333.0,512.0,8.0,5561.0,6.4,50,4.3,28457,77449,Retail Store,South America,Uzbekistan,2025-10-14,1,14.0,9.78
+Samsung,Galaxy A72,65262.0,38117.0,27145.0,64.0,8.0,5951.0,6.2,50,3.9,21204,422454,Retail Store,North America,Trinidad and Tobago,2025-11-02,2,15.0,9.45
+Samsung,Galaxy A72,98191.0,88765.0,9426.0,256.0,8.0,5163.0,6.4,64,4.0,21868,186299,Offline,Europe,Hungary,2025-03-22,2,23.0,6.18
+Samsung,Galaxy S21,53984.0,24721.0,29263.0,512.0,6.0,5426.0,6.5,64,4.6,8815,493331,Offline,North America,Cameroon,2024-05-16,1,35.0,2.04
+Samsung,Galaxy S22,80369.0,65021.0,15348.0,512.0,8.0,5322.0,,108,4.2,19429,246186,Retail Store,Europe,Luxembourg,2022-06-22,1,24.0,1.53
+Samsung,Galaxy A52,33846.0,28739.0,5107.0,,6.0,3744.0,6.5,64,4.2,8245,216300,Online,Europe,Norway,2024-04-19,1,34.0,8.59
+Samsung,Galaxy S23,98242.0,60478.0,37764.0,128.0,6.0,4936.0,6.2,50,4.5,19012,236076,Offline,North America,Papua New Guinea,2023-05-25,1,15.0,8.92
+Samsung,Galaxy S22,92269.0,78578.0,13691.0,512.0,12.0,4331.0,6.8,64,3.5,22152,120699,Offline,Asia,Syrian Arab Republic,2024-12-14,1,26.0,2.59
+Samsung,Galaxy S22,76685.0,37278.0,,128.0,8.0,5837.0,6.7,50,3.6,14073,457931,Retail Store,Asia,,2022-09-10,2,31.0,8.52
+Samsung,Galaxy A72,54590.0,44669.0,9921.0,256.0,8.0,4392.0,6.5,64,,8070,174794,Offline,North America,Niue,2025-05-13,1,24.0,5.78
+Samsung,Galaxy A52,42886.0,30206.0,12680.0,128.0,8.0,5869.0,6.8,50,4.9,14833,378608,Online,North America,Isle of Man,2023-08-19,1,23.0,2.26
+Samsung,Galaxy A52,73869.0,45829.0,,128.0,6.0,3962.0,6.2,64,3.7,19483,191094,Online,South America,Guam,2024-10-23,2,39.0,6.85
+Samsung,Galaxy Z Flip,119700.0,105128.0,14572.0,128.0,8.0,4878.0,6.5,50,,22712,483597,Offline,South America,Botswana,2023-12-27,2,31.0,5.61
+Samsung,Galaxy S23,44372.0,34388.0,9984.0,64.0,6.0,5195.0,6.9,64,4.0,5051,79076,Offline,South America,Kyrgyz Republic,2021-12-15,1,23.0,1.71
+Samsung,Galaxy S22,96606.0,31061.0,,256.0,8.0,4515.0,6.6,108,4.1,9728,428202,Retail Store,Europe,Seychelles,2025-02-19,2,28.0,2.99
+Samsung,Galaxy S23,,42696.0,33945.0,256.0,6.0,4423.0,6.3,64,4.2,29759,356944,Online,Asia,,2025-05-31,1,27.0,6.4
+Samsung,Galaxy A52,85087.0,37576.0,47511.0,64.0,8.0,4789.0,,50,4.3,10384,497510,Online,Asia,Denmark,2022-09-22,2,23.0,2.84
+Samsung,Galaxy S22,107717.0,23160.0,84557.0,256.0,8.0,5785.0,6.3,50,4.0,8113,531009,Retail Store,Europe,Iraq,2023-05-21,2,,5.44
+Samsung,Galaxy S21,82140.0,39762.0,42378.0,256.0,12.0,3947.0,6.8,64,4.5,26430,85248,Retail Store,Europe,Yemen,2025-04-24,1,28.0,9.89
+Samsung,Galaxy S23,119322.0,44368.0,74954.0,128.0,12.0,3922.0,6.7,50,4.9,19829,411445,Online,Asia,Nigeria,2025-06-26,2,25.0,4.97
+Samsung,Galaxy A52,104252.0,31099.0,73153.0,64.0,8.0,4561.0,6.6,64,4.7,17625,163304,Retail Store,Europe,Iran,2025-03-06,1,6.0,8.58
+Samsung,Galaxy A52,41202.0,,8138.0,512.0,12.0,4003.0,6.9,50,3.5,7686,151583,Online,South America,Palestinian Territory,2025-11-30,2,40.0,5.17
+Samsung,Galaxy S22,38757.0,32522.0,6235.0,64.0,12.0,4708.0,,64,3.7,5285,119541,Retail Store,South America,,2025-09-08,1,32.0,5.15
+Samsung,Galaxy Z Flip,48854.0,28979.0,19875.0,64.0,8.0,4817.0,6.3,108,4.4,15270,551733,Retail Store,Europe,Tuvalu,2023-12-17,1,37.0,4.14
+Samsung,Galaxy S23,51178.0,23670.0,27508.0,256.0,12.0,5341.0,6.2,50,,4627,160207,Retail Store,South America,Somalia,2023-09-28,2,,6.13
+Samsung,Galaxy A72,112927.0,54740.0,58187.0,256.0,12.0,4441.0,6.5,108,3.7,27466,198452,Retail Store,North America,Saint Pierre and Miquelon,2023-10-07,1,,7.45
+Samsung,Galaxy S23,34347.0,20362.0,13985.0,,12.0,,6.9,50,3.6,28971,255346,Retail Store,Europe,Latvia,2025-04-13,1,38.0,4.51
+Samsung,Galaxy A72,46362.0,25456.0,20906.0,128.0,,3906.0,6.8,108,4.9,26297,117935,Online,Europe,Sierra Leone,2022-08-26,1,12.0,6.16
+Samsung,Galaxy S22,102910.0,37913.0,64997.0,512.0,6.0,5479.0,6.8,50,4.7,24746,6768,Retail Store,Asia,Guyana,2022-10-28,1,38.0,5.49
+Samsung,Galaxy A72,98504.0,25146.0,73358.0,512.0,,3959.0,6.7,50,3.5,14817,515405,Online,Asia,Thailand,2023-12-15,2,39.0,1.89
+Samsung,Galaxy Z Flip,96530.0,21298.0,75232.0,512.0,,4463.0,6.3,50,5.0,2774,589527,Online,South America,Armenia,2022-02-19,2,,5.88
+Samsung,Galaxy S21,72106.0,28947.0,43159.0,512.0,12.0,3698.0,6.5,64,,22520,415791,Offline,Europe,Mexico,2024-10-17,2,,6.04
+Samsung,Galaxy S22,93213.0,59813.0,33400.0,256.0,8.0,3517.0,,50,3.9,24912,16020,Retail Store,Asia,Moldova,2025-08-31,2,24.0,9.35
+Samsung,Galaxy Z Flip,100268.0,21154.0,79114.0,256.0,,4420.0,6.5,50,4.3,23501,354745,Retail Store,Asia,Ireland,2025-09-29,1,16.0,9.03
+Samsung,Galaxy Z Flip,95112.0,42750.0,52362.0,512.0,8.0,4088.0,,50,4.2,20891,333127,Online,Asia,Palestinian Territory,2023-02-07,2,20.0,5.71
+Samsung,Galaxy S21,91376.0,49872.0,41504.0,128.0,8.0,5460.0,6.8,108,4.5,23591,342303,Retail Store,South America,El Salvador,2023-12-30,1,36.0,4.73
+Samsung,Galaxy A52,92707.0,64897.0,27810.0,128.0,8.0,4823.0,6.6,50,3.5,8355,587373,Offline,Asia,Tonga,2024-01-08,2,,3.16
+Samsung,Galaxy A72,106562.0,54781.0,51781.0,64.0,8.0,5168.0,6.4,108,4.6,11382,554443,Online,South America,Gibraltar,2025-04-18,1,29.0,2.86
+Samsung,Galaxy S21,86969.0,23232.0,63737.0,64.0,8.0,5915.0,6.4,108,4.7,22219,169094,Offline,South America,Puerto Rico,2022-09-21,2,16.0,7.79
+Samsung,Galaxy Z Flip,119315.0,32237.0,87078.0,256.0,6.0,5238.0,6.7,50,4.4,27207,106177,Retail Store,Europe,,2025-06-19,1,11.0,5.51
+Samsung,Galaxy A72,89418.0,54174.0,35244.0,128.0,6.0,3631.0,6.7,64,4.7,29861,457169,Online,Asia,Iceland,2022-10-28,2,19.0,8.35
+Samsung,Galaxy A72,100876.0,71946.0,28930.0,512.0,6.0,4906.0,6.2,108,4.9,6666,168758,Offline,North America,Romania,2024-10-03,1,6.0,4.13
+Samsung,Galaxy S22,68329.0,24380.0,43949.0,256.0,6.0,5855.0,6.5,50,4.8,16129,47293,Online,South America,China,2024-03-09,2,32.0,4.09
+Samsung,Galaxy Z Flip,62136.0,29210.0,32926.0,256.0,8.0,4891.0,,50,4.9,21039,485817,Offline,Europe,India,2023-02-12,1,22.0,4.81
+Samsung,Galaxy A72,34406.0,28682.0,5724.0,64.0,6.0,4837.0,6.3,64,4.2,27907,514866,Retail Store,Europe,Argentina,2025-09-03,2,5.0,3.41
+Samsung,Galaxy S22,45439.0,,6827.0,128.0,6.0,4514.0,6.1,50,,27127,550408,Retail Store,North America,Kuwait,2023-09-05,1,15.0,8.3
+Samsung,Galaxy S21,114659.0,46360.0,68299.0,128.0,12.0,,6.3,108,4.7,4193,40503,Retail Store,Asia,Cocos (Keeling) Islands,2024-04-10,1,7.0,6.8
+Samsung,Galaxy A72,50653.0,24646.0,26007.0,512.0,12.0,4221.0,6.5,50,4.7,6055,279993,Retail Store,North America,Micronesia,2024-11-28,2,34.0,2.47
+Samsung,Galaxy S21,,48815.0,,64.0,8.0,5803.0,6.4,108,,4731,260905,Online,North America,Ghana,2024-03-14,1,22.0,6.9
+Samsung,Galaxy Z Flip,55125.0,48935.0,6190.0,64.0,12.0,4701.0,6.3,108,3.8,16948,493932,Online,Asia,Tuvalu,2024-12-23,2,19.0,7.74
+Samsung,Galaxy S21,68098.0,27290.0,40808.0,128.0,12.0,4789.0,6.5,50,4.4,5662,359081,Retail Store,Asia,Cambodia,2024-02-13,2,34.0,3.77
+Samsung,Galaxy S23,102385.0,41705.0,60680.0,256.0,8.0,,6.7,108,4.2,11893,159517,Retail Store,North America,Latvia,2025-03-13,1,36.0,1.97
+Samsung,Galaxy S23,38826.0,25134.0,13692.0,512.0,12.0,4209.0,6.4,108,5.0,23991,519833,Online,Asia,Dominican Republic,2023-04-11,1,21.0,3.05
+Samsung,Galaxy S21,68045.0,46942.0,21103.0,512.0,6.0,5857.0,6.3,64,3.5,8250,385643,Retail Store,Europe,Aruba,2024-03-15,1,37.0,5.45
+Samsung,Galaxy S22,109165.0,58658.0,50507.0,256.0,8.0,5521.0,6.8,50,4.5,20082,413975,Online,South America,Saudi Arabia,2023-01-05,2,9.0,6.49
+Samsung,Galaxy Z Flip,79661.0,70132.0,9529.0,512.0,12.0,5802.0,6.7,50,,8664,489429,Retail Store,Europe,Ghana,2025-12-05,2,16.0,6.21
+Samsung,Galaxy Z Flip,68386.0,46687.0,21699.0,256.0,12.0,4437.0,,108,3.5,3597,281522,Online,South America,Lebanon,2024-02-17,2,,2.41
+Samsung,Galaxy A52,55799.0,41552.0,14247.0,256.0,12.0,3630.0,6.4,108,4.8,27265,87519,Retail Store,Europe,Saint Vincent and the Grenadines,2023-08-24,2,36.0,2.21
+Samsung,Galaxy S22,49607.0,36724.0,12883.0,64.0,8.0,5722.0,6.1,64,4.6,18102,205884,Retail Store,Asia,Swaziland,2023-10-02,2,27.0,4.81
+Samsung,Galaxy A72,45169.0,,10992.0,256.0,12.0,5196.0,6.3,108,4.5,28978,302012,Online,South America,Cape Verde,2022-10-29,1,39.0,5.92
+Samsung,Galaxy Z Flip,107935.0,21834.0,86101.0,256.0,,3584.0,6.3,50,4.4,22895,515512,Offline,North America,Chile,2024-04-10,1,19.0,6.85
+Samsung,Galaxy Z Flip,,47830.0,,,12.0,4019.0,6.8,108,3.8,23258,308292,Offline,Asia,Reunion,2024-06-18,1,14.0,6.42
+Samsung,Galaxy S23,,97248.0,9808.0,128.0,8.0,5431.0,6.5,108,3.9,26191,522989,Offline,Asia,Mauritius,2023-11-21,1,30.0,9.28
+Samsung,Galaxy S22,65743.0,46781.0,18962.0,64.0,8.0,4267.0,,108,4.2,14555,401226,Offline,Europe,Ecuador,2023-05-28,2,32.0,9.07
+Samsung,Galaxy S21,53431.0,20397.0,33034.0,128.0,6.0,4599.0,6.8,108,4.8,27737,264437,Retail Store,South America,Saint Vincent and the Grenadines,2024-03-07,1,16.0,7.75
+Samsung,Galaxy S22,69683.0,35207.0,34476.0,512.0,,3527.0,6.8,64,3.9,12915,203638,Online,Europe,Nauru,2025-10-10,2,40.0,6.16
+Samsung,Galaxy S22,51871.0,39350.0,12521.0,64.0,6.0,5299.0,6.4,64,,29278,167470,Retail Store,North America,Ghana,2022-06-22,1,22.0,4.89
+Samsung,Galaxy Z Flip,89111.0,59995.0,29116.0,128.0,6.0,4213.0,6.7,50,4.7,22673,536798,Offline,South America,Mali,2024-12-24,2,18.0,4.32
+Samsung,Galaxy A72,98252.0,92825.0,,128.0,8.0,5554.0,6.4,108,4.0,6047,568789,Offline,South America,Ghana,2025-02-17,2,34.0,5.19
+Samsung,Galaxy A52,79359.0,37912.0,,256.0,8.0,5028.0,6.8,64,4.9,22477,243276,Online,North America,Oman,2025-08-04,1,,7.85
+Samsung,Galaxy A72,,36166.0,5090.0,256.0,12.0,5894.0,6.6,64,4.0,11501,426794,Offline,South America,France,2025-01-27,2,34.0,5.98
+Samsung,Galaxy S21,77326.0,54826.0,22500.0,512.0,12.0,5129.0,6.5,64,3.7,20311,219607,Offline,Asia,British Indian Ocean Territory (Chagos Archipelago),2023-02-18,2,10.0,4.97
+Samsung,Galaxy A72,90625.0,62727.0,27898.0,128.0,12.0,5841.0,,64,4.8,9206,106501,Online,Europe,Libyan Arab Jamahiriya,2025-01-12,2,,2.29
+Samsung,Galaxy S23,76595.0,45398.0,31197.0,512.0,6.0,3583.0,6.5,50,3.6,15782,514987,Online,South America,Palau,2025-04-02,1,22.0,8.98
+Samsung,Galaxy S21,106757.0,28263.0,78494.0,128.0,12.0,4729.0,6.2,64,4.3,26739,12322,Online,Asia,Iceland,2025-09-29,1,38.0,7.97
+Samsung,Galaxy Z Flip,,34896.0,9200.0,128.0,8.0,5502.0,6.7,64,4.1,9787,95944,Retail Store,Europe,Egypt,2024-05-28,2,22.0,3.27
+Samsung,Galaxy A52,60998.0,27852.0,33146.0,64.0,12.0,4351.0,6.2,50,4.4,15191,468572,Retail Store,Asia,Belarus,2025-04-09,2,36.0,4.86
+Samsung,Galaxy Z Flip,64183.0,43763.0,20420.0,64.0,12.0,4767.0,6.7,50,3.6,14615,27503,Offline,South America,,2023-06-08,1,15.0,6.17
+Samsung,Galaxy S21,81188.0,33029.0,48159.0,256.0,,3801.0,6.8,64,4.1,16325,246661,Retail Store,Asia,Andorra,2025-04-12,2,33.0,3.98
+Samsung,Galaxy S21,54745.0,49204.0,5541.0,512.0,12.0,4847.0,6.5,50,4.1,8544,453095,Retail Store,South America,Lithuania,2022-05-23,2,27.0,2.45
+Samsung,Galaxy A52,61690.0,54203.0,7487.0,256.0,12.0,3625.0,6.9,64,3.8,13482,60962,Offline,Europe,Central African Republic,2022-03-16,1,25.0,6.07
+Samsung,Galaxy Z Flip,91379.0,56384.0,34995.0,512.0,12.0,5460.0,6.5,108,3.7,24176,292176,Online,North America,Italy,2023-01-27,2,31.0,4.03
+Samsung,Galaxy A52,32682.0,,5807.0,256.0,8.0,5092.0,6.8,50,,20318,169358,Offline,Asia,French Southern Territories,2025-01-01,2,17.0,2.08
+Samsung,Galaxy A72,91896.0,54516.0,37380.0,,12.0,5413.0,6.8,64,4.3,2490,470796,Online,North America,Korea,2024-03-02,1,17.0,6.94
+Samsung,Galaxy S21,60617.0,53178.0,7439.0,128.0,8.0,3731.0,6.3,64,4.1,17317,184574,Offline,North America,Saint Helena,2024-10-11,2,5.0,8.26
+Samsung,Galaxy A72,85475.0,43030.0,42445.0,128.0,8.0,4313.0,6.7,64,4.1,2337,217157,Offline,North America,Samoa,2025-10-25,2,19.0,3.57
+Samsung,Galaxy Z Flip,54870.0,46286.0,8584.0,512.0,12.0,5817.0,6.8,64,4.8,16490,272932,Retail Store,Asia,Saint Vincent and the Grenadines,2022-12-01,2,15.0,3.9
+Samsung,Galaxy S21,40759.0,33284.0,,256.0,12.0,,6.2,64,3.8,22872,128644,Online,Europe,Equatorial Guinea,2022-02-16,2,27.0,3.16
+Samsung,Galaxy S22,65142.0,20792.0,44350.0,64.0,6.0,4095.0,6.7,108,3.7,22024,148159,Retail Store,North America,Mali,2023-12-02,2,37.0,8.44
+Samsung,Galaxy Z Flip,35406.0,25833.0,9573.0,256.0,8.0,4228.0,6.5,50,4.2,28784,573323,Online,South America,Philippines,2025-06-07,1,5.0,8.67
+Samsung,Galaxy S22,39538.0,,10411.0,64.0,8.0,4945.0,6.5,64,4.6,4164,500218,Retail Store,Europe,Latvia,2025-11-19,1,9.0,5.97
+Samsung,Galaxy S22,70896.0,23455.0,47441.0,512.0,6.0,5995.0,6.6,64,3.6,12435,188363,Online,Asia,Mozambique,2022-05-10,2,16.0,2.08
+Samsung,Galaxy Z Flip,107919.0,68282.0,39637.0,256.0,12.0,3575.0,,108,4.7,9692,573406,Online,Asia,Honduras,2023-01-06,1,33.0,4.09
+Samsung,Galaxy S21,109557.0,24906.0,84651.0,128.0,6.0,,6.7,64,4.3,14673,432060,Retail Store,North America,Slovenia,2023-06-29,2,9.0,7.73
+Samsung,Galaxy Z Flip,73591.0,52068.0,21523.0,64.0,8.0,4645.0,6.8,108,3.9,3293,65332,Offline,South America,Gibraltar,2024-05-07,2,23.0,2.61
+Samsung,Galaxy Z Flip,88937.0,59259.0,29678.0,128.0,8.0,5210.0,6.5,108,4.7,4267,599021,Retail Store,South America,Belgium,2022-02-11,2,35.0,8.04
+Samsung,Galaxy A52,84893.0,66944.0,17949.0,,12.0,5795.0,6.3,50,4.4,23765,405436,Online,Asia,Poland,2023-02-11,2,5.0,3.64
+Samsung,Galaxy Z Flip,75458.0,47622.0,27836.0,,6.0,5909.0,6.8,108,4.1,21681,239920,Retail Store,Europe,Qatar,2022-03-19,2,6.0,7.88
+Samsung,Galaxy A52,59917.0,50660.0,9257.0,128.0,,5111.0,6.2,50,3.5,2358,305544,Online,Asia,Colombia,2025-10-03,1,34.0,6.55
+Samsung,Galaxy S23,32249.0,21661.0,10588.0,256.0,8.0,3882.0,6.2,108,4.6,18580,557154,Online,South America,Honduras,2024-04-28,2,34.0,3.34
+Samsung,Galaxy A72,,,17729.0,512.0,6.0,5216.0,6.7,64,4.0,5104,580681,Offline,Europe,Ghana,2024-08-20,1,15.0,6.9
+Samsung,Galaxy A52,67301.0,59466.0,7835.0,512.0,12.0,,6.2,50,4.6,22547,136061,Retail Store,South America,Svalbard & Jan Mayen Islands,2025-04-21,1,35.0,6.07
+Samsung,Galaxy S21,89492.0,56859.0,32633.0,128.0,12.0,4345.0,6.8,108,3.7,1810,574182,Retail Store,Europe,Brazil,2024-06-07,2,,8.2
+Samsung,Galaxy S21,82546.0,35571.0,46975.0,128.0,,3847.0,6.5,64,,12240,547600,Offline,North America,Palestinian Territory,2024-07-25,2,37.0,2.3
+Samsung,Galaxy Z Flip,98680.0,72007.0,,128.0,12.0,5466.0,6.6,50,4.3,5959,7747,Online,Europe,North Macedonia,2022-04-26,1,30.0,4.11
+Samsung,Galaxy Z Flip,44277.0,23698.0,20579.0,64.0,,5346.0,6.4,108,3.6,7755,250519,Offline,North America,Kazakhstan,2023-08-12,2,30.0,1.9
+Samsung,Galaxy Z Flip,62146.0,44376.0,17770.0,256.0,12.0,4440.0,6.3,50,5.0,26824,182198,Retail Store,Asia,Argentina,2022-11-08,2,29.0,6.76
+Samsung,Galaxy Z Flip,111915.0,64520.0,47395.0,128.0,6.0,4407.0,6.2,64,4.2,29993,423431,Offline,North America,Trinidad and Tobago,2022-09-02,1,27.0,5.6
+Samsung,Galaxy S21,103634.0,66799.0,,512.0,8.0,4130.0,6.4,64,3.8,28665,244171,Retail Store,Europe,,2024-07-25,2,29.0,9.87
+Samsung,Galaxy Z Flip,118458.0,27182.0,91276.0,64.0,12.0,5335.0,6.6,108,4.7,20093,466259,Offline,Asia,Palau,2024-01-02,2,27.0,3.12
+Samsung,Galaxy Z Flip,85808.0,55359.0,30449.0,256.0,12.0,3531.0,6.2,108,4.4,9179,21912,Offline,South America,,2023-06-01,2,33.0,7.53
+Samsung,Galaxy S21,32177.0,22254.0,9923.0,64.0,,4821.0,6.1,50,4.4,28763,77635,Retail Store,North America,Mayotte,2022-04-29,2,38.0,6.59
+Samsung,Galaxy S22,85227.0,45319.0,,128.0,8.0,3828.0,6.2,108,,14387,200854,Retail Store,North America,Congo,2023-08-05,2,22.0,9.77
+Samsung,Galaxy A72,118224.0,75012.0,43212.0,256.0,12.0,5126.0,6.4,64,4.8,23015,40714,Retail Store,South America,Isle of Man,2022-06-23,1,24.0,5.17
+Samsung,Galaxy A72,65762.0,48424.0,17338.0,128.0,12.0,3813.0,6.2,108,4.5,28519,214945,Retail Store,North America,Costa Rica,2024-03-18,2,39.0,4.64
+Samsung,Galaxy A72,31426.0,23678.0,7748.0,128.0,8.0,5989.0,6.6,108,4.9,24817,330934,Offline,North America,Tuvalu,2022-09-21,2,8.0,8.42
+Samsung,Galaxy S23,87935.0,61735.0,26200.0,128.0,12.0,,6.8,108,4.9,26028,341248,Offline,Asia,Peru,2025-11-07,1,40.0,6.31
+Samsung,Galaxy A72,90615.0,45751.0,44864.0,128.0,12.0,,6.5,108,3.7,2974,266195,Offline,South America,Guadeloupe,2022-10-29,2,38.0,9.93
+Samsung,Galaxy S22,39402.0,28442.0,10960.0,128.0,12.0,5716.0,6.6,108,,7118,54576,Online,Asia,Barbados,2023-09-16,2,,4.03
+Samsung,Galaxy S21,112926.0,35680.0,77246.0,128.0,12.0,4861.0,6.5,50,,22662,365020,Online,Europe,Norfolk Island,2025-07-05,1,36.0,2.1
+Samsung,Galaxy A52,101364.0,32076.0,69288.0,64.0,12.0,5747.0,6.9,50,4.9,29726,459589,Online,South America,Guam,2023-12-20,1,13.0,7.27
+Samsung,Galaxy S23,114130.0,28343.0,85787.0,64.0,6.0,,6.7,108,4.2,9720,70583,Offline,North America,Palau,2024-10-27,1,27.0,9.84
+Samsung,Galaxy Z Flip,78322.0,,31762.0,64.0,12.0,5742.0,6.8,108,4.6,11193,287470,Online,Asia,Guinea,2023-06-28,2,10.0,7.76
+Samsung,Galaxy S23,47023.0,42440.0,4583.0,64.0,6.0,3679.0,6.4,64,4.5,13324,130107,Online,Europe,Bangladesh,2024-02-20,2,14.0,4.0
+Samsung,Galaxy S21,84835.0,78145.0,6690.0,256.0,6.0,4633.0,6.9,50,3.9,12532,536330,Online,North America,Armenia,2024-10-07,1,34.0,1.51
+Samsung,Galaxy S22,116110.0,22302.0,93808.0,256.0,,5690.0,6.4,64,4.9,2196,418205,Online,Europe,Equatorial Guinea,2024-12-12,2,8.0,9.94
+Samsung,Galaxy S23,,23353.0,7989.0,64.0,12.0,4084.0,6.8,64,4.1,19316,482604,Online,Europe,Bouvet Island (Bouvetoya),2025-12-06,1,23.0,5.17
+Samsung,Galaxy A52,,65335.0,33219.0,512.0,12.0,4127.0,6.6,50,3.8,29711,507298,Retail Store,Asia,India,2024-12-11,2,38.0,8.46
+Samsung,Galaxy Z Flip,61659.0,55299.0,,128.0,6.0,5375.0,6.3,64,,13177,414331,Online,North America,,2023-06-09,1,8.0,7.6
+Samsung,Galaxy A72,91375.0,85124.0,6251.0,256.0,12.0,5355.0,6.8,108,3.5,8789,481125,Retail Store,North America,Cocos (Keeling) Islands,2023-12-18,2,14.0,3.91
+Samsung,Galaxy S23,108438.0,85926.0,22512.0,256.0,8.0,4707.0,6.4,64,3.9,29047,71892,Online,South America,Ireland,2025-10-18,2,14.0,8.86
+Samsung,Galaxy A72,45894.0,,8084.0,256.0,6.0,5537.0,6.7,50,4.0,17485,17485,Online,Asia,Tanzania,2022-08-01,2,28.0,6.14
+Samsung,Galaxy S23,82548.0,22423.0,60125.0,512.0,12.0,3733.0,6.7,108,4.7,27328,586888,Retail Store,Asia,Sri Lanka,2022-10-06,2,17.0,4.36
+Samsung,Galaxy A52,55830.0,47127.0,8703.0,256.0,,4327.0,6.3,64,,28451,365829,Retail Store,Asia,Israel,2024-02-09,2,6.0,7.49
+Samsung,Galaxy S21,79681.0,38923.0,40758.0,128.0,12.0,5534.0,6.2,64,5.0,3341,94790,Offline,Europe,Malawi,2024-09-06,1,14.0,8.71
+Samsung,Galaxy S22,112312.0,,79664.0,128.0,,4732.0,6.5,50,3.9,23055,272483,Retail Store,North America,Sudan,2023-09-12,1,34.0,2.11
+Samsung,Galaxy A72,34986.0,28419.0,6567.0,512.0,12.0,5622.0,6.1,108,5.0,25793,456320,Retail Store,South America,Malaysia,2021-12-23,1,40.0,8.3
+Samsung,Galaxy S23,68834.0,33094.0,,512.0,12.0,5816.0,6.6,50,4.6,8116,422426,Online,Europe,Trinidad and Tobago,2024-02-12,1,28.0,2.22
+Samsung,Galaxy A72,80871.0,61158.0,19713.0,256.0,6.0,,6.3,50,4.0,6370,443738,Retail Store,South America,Aruba,2025-02-08,2,22.0,1.82
+Samsung,Galaxy S23,82499.0,73668.0,8831.0,256.0,,3737.0,6.3,108,3.8,17979,92464,Retail Store,North America,French Polynesia,2022-08-07,1,7.0,2.88
+Samsung,Galaxy A52,43241.0,,13657.0,128.0,6.0,5410.0,6.8,50,3.8,24897,13084,Online,South America,Brazil,2022-10-24,1,18.0,3.77
+Samsung,Galaxy S22,88692.0,61945.0,26747.0,64.0,8.0,4680.0,6.4,108,3.9,8786,295097,Offline,South America,Nauru,2023-09-17,2,7.0,8.52
+Samsung,Galaxy S22,108791.0,78420.0,30371.0,128.0,12.0,4064.0,6.8,108,4.4,21438,214968,Retail Store,Asia,Albania,2025-04-18,2,13.0,8.96
+Samsung,Galaxy A52,100998.0,85515.0,15483.0,128.0,8.0,4341.0,6.3,50,4.2,21799,275251,Retail Store,South America,French Southern Territories,2023-05-26,2,6.0,6.52
+Samsung,Galaxy A72,109214.0,34845.0,74369.0,64.0,12.0,5643.0,6.5,50,4.2,9566,238027,Offline,South America,,2022-10-31,1,34.0,7.3
+Samsung,Galaxy A52,36217.0,21252.0,14965.0,128.0,6.0,4549.0,6.6,64,,13127,216916,Online,South America,,2024-10-26,1,28.0,5.12
+Samsung,Galaxy Z Flip,45092.0,,20418.0,512.0,8.0,,6.4,108,4.5,14963,484592,Retail Store,Asia,Libyan Arab Jamahiriya,2022-11-11,2,5.0,7.18
+Samsung,Galaxy Z Flip,75963.0,63674.0,12289.0,64.0,12.0,5469.0,6.7,108,4.4,8376,294466,Offline,South America,French Guiana,2025-03-07,1,37.0,3.94
+Samsung,Galaxy S21,34576.0,30152.0,4424.0,512.0,12.0,5909.0,6.6,108,3.9,5370,519956,Retail Store,South America,,2025-11-08,2,27.0,9.08
+Samsung,Galaxy A72,105594.0,77937.0,27657.0,64.0,6.0,5826.0,6.9,64,4.3,11675,294555,Retail Store,Europe,Thailand,2023-05-02,2,36.0,5.22
+Samsung,Galaxy S21,61820.0,40880.0,20940.0,64.0,8.0,3818.0,6.5,64,3.6,2495,198493,Online,Europe,Sao Tome and Principe,2025-07-02,2,,3.69
+Samsung,Galaxy A72,70758.0,50834.0,,64.0,12.0,3652.0,6.6,108,,4270,202149,Online,Europe,Liberia,2024-11-02,1,12.0,4.89
+Samsung,Galaxy Z Flip,115226.0,70433.0,44793.0,256.0,12.0,5274.0,6.3,64,4.9,26663,353725,Retail Store,Asia,,2025-03-16,2,17.0,9.01
+Samsung,Galaxy A72,53032.0,42528.0,10504.0,128.0,6.0,5527.0,,108,3.5,28974,439511,Retail Store,South America,Namibia,2024-10-06,2,36.0,7.1
+Samsung,Galaxy A72,,50606.0,35486.0,512.0,8.0,3653.0,6.5,50,4.6,16335,99462,Offline,North America,Cyprus,2024-01-26,1,23.0,3.13
+Samsung,Galaxy S21,48794.0,35410.0,13384.0,64.0,6.0,5741.0,6.6,108,,13164,222364,Offline,Europe,,2024-12-14,1,12.0,4.85
+Samsung,Galaxy A52,70812.0,49750.0,21062.0,512.0,8.0,4546.0,6.4,108,3.5,22192,406877,Online,Europe,Bahrain,2025-07-10,2,9.0,2.26
+Samsung,Galaxy A72,97748.0,47611.0,50137.0,512.0,6.0,,6.6,50,4.7,1750,463077,Online,North America,Luxembourg,2025-03-16,1,11.0,5.95
+Samsung,Galaxy A52,63116.0,27249.0,35867.0,256.0,8.0,4366.0,6.6,108,4.9,18257,306917,Retail Store,Asia,Uzbekistan,2023-10-28,1,12.0,6.47
+Samsung,Galaxy A72,,23796.0,67532.0,64.0,12.0,5385.0,,64,4.8,15653,220413,Online,South America,Djibouti,2025-09-15,2,25.0,3.25
+Samsung,Galaxy A72,63775.0,57572.0,6203.0,512.0,12.0,4482.0,6.6,50,4.2,16215,477285,Retail Store,Europe,Bahamas,2024-09-03,2,35.0,8.51
+Samsung,Galaxy A52,71721.0,53227.0,,,6.0,5412.0,6.2,64,4.0,3695,559098,Retail Store,North America,Chile,2025-04-26,2,39.0,3.22
+Samsung,Galaxy S23,119881.0,64991.0,54890.0,128.0,6.0,4186.0,6.3,64,4.5,7747,85889,Offline,South America,Hungary,2022-08-26,1,27.0,4.98
+Samsung,Galaxy S21,115946.0,88369.0,27577.0,128.0,8.0,4029.0,6.8,108,4.5,19837,557369,Retail Store,Europe,Martinique,2023-05-20,1,21.0,9.97
+Samsung,Galaxy S23,52045.0,28338.0,23707.0,512.0,12.0,5872.0,6.5,108,4.9,14513,163634,Retail Store,North America,Liberia,2024-09-10,2,16.0,5.96
+Samsung,Galaxy A52,58142.0,38443.0,19699.0,64.0,8.0,4434.0,6.8,64,3.5,3440,597702,Retail Store,Asia,Mali,2022-01-06,2,,9.05
+Samsung,Galaxy S21,58375.0,42025.0,16350.0,512.0,12.0,5577.0,6.7,108,3.9,19679,93391,Offline,North America,Spain,2025-05-26,1,23.0,5.6
+Samsung,Galaxy S23,91692.0,84934.0,,,6.0,5690.0,6.2,108,3.5,12767,494375,Online,North America,,2023-12-14,2,16.0,8.72
+Samsung,Galaxy S23,,84399.0,14894.0,512.0,8.0,4858.0,6.2,50,4.5,6240,350610,Retail Store,Asia,United States Minor Outlying Islands,2022-03-02,1,24.0,7.98
+Samsung,Galaxy S23,,44910.0,,128.0,8.0,5314.0,6.6,64,4.1,11881,552393,Online,Europe,Costa Rica,2023-08-31,2,16.0,3.85
+Samsung,Galaxy Z Flip,77439.0,55475.0,,128.0,8.0,3884.0,6.8,50,,24027,242185,Online,South America,Tonga,2025-10-04,2,5.0,9.62
+Samsung,Galaxy Z Flip,86630.0,64305.0,22325.0,128.0,8.0,4946.0,6.9,108,4.8,6901,499571,Online,South America,Ecuador,2022-12-25,2,27.0,8.06
+Samsung,Galaxy S23,82651.0,77478.0,5173.0,128.0,,4513.0,,50,4.5,17141,441894,Online,Europe,Iran,2025-12-13,2,,5.73
+Samsung,Galaxy A72,51476.0,32695.0,,256.0,12.0,4748.0,6.4,50,,10021,356019,Retail Store,North America,Falkland Islands (Malvinas),2024-03-10,1,,8.26
+Samsung,Galaxy S22,,92571.0,9230.0,,8.0,3792.0,6.2,50,4.1,14663,125635,Online,Europe,Jordan,2024-02-12,1,8.0,4.73
+Samsung,Galaxy S21,104843.0,76804.0,28039.0,512.0,12.0,4635.0,6.6,50,3.7,14785,368793,Offline,Asia,Mali,2022-12-23,1,40.0,5.77
+Samsung,Galaxy A52,32485.0,21611.0,10874.0,64.0,6.0,4036.0,6.4,50,4.3,14225,100632,Offline,Asia,Slovenia,2025-02-12,2,11.0,8.05
+Samsung,Galaxy Z Flip,36681.0,28061.0,8620.0,256.0,6.0,5298.0,6.7,64,4.0,28242,499414,Retail Store,North America,Madagascar,2022-01-10,2,12.0,6.95
+Samsung,Galaxy A72,56489.0,48913.0,7576.0,,,4256.0,6.4,108,3.8,2446,197679,Retail Store,North America,Norfolk Island,2023-10-29,1,28.0,1.73
+Samsung,Galaxy A72,47335.0,29806.0,17529.0,64.0,6.0,3563.0,6.3,50,4.3,1525,496636,Online,Europe,Seychelles,2024-02-04,2,18.0,9.25
+Samsung,Galaxy S23,45866.0,41206.0,4660.0,256.0,8.0,5220.0,6.4,64,4.6,9878,587354,Online,North America,Lebanon,2025-08-29,1,25.0,9.3
+Samsung,Galaxy S22,34930.0,30467.0,4463.0,256.0,6.0,3764.0,6.3,108,3.6,27515,294853,Offline,North America,Dominican Republic,2025-08-24,2,25.0,7.37
+Samsung,Galaxy S23,95743.0,26867.0,68876.0,256.0,,4018.0,6.5,64,4.6,14838,129335,Offline,Europe,Guyana,2022-08-10,1,7.0,9.23
+Samsung,Galaxy S23,52517.0,24999.0,27518.0,,8.0,4327.0,,108,4.1,2304,255849,Retail Store,Europe,Turkey,2025-07-12,1,5.0,5.23
+Samsung,Galaxy Z Flip,85925.0,74440.0,11485.0,256.0,6.0,4663.0,6.2,108,4.3,8266,54276,Offline,North America,Mongolia,2024-03-26,2,22.0,3.37
+Samsung,Galaxy Z Flip,33399.0,26337.0,7062.0,64.0,6.0,4286.0,6.6,108,3.6,17675,347195,Online,South America,Uganda,2025-05-01,1,24.0,8.72
+Samsung,Galaxy S21,80811.0,37835.0,42976.0,,12.0,5077.0,,50,3.9,2723,154442,Retail Store,North America,Sierra Leone,2022-11-02,1,18.0,1.65
+Samsung,Galaxy A52,42846.0,29515.0,13331.0,512.0,6.0,4965.0,6.6,50,4.0,19481,75497,Retail Store,North America,Isle of Man,2024-12-30,2,25.0,3.9
+Samsung,Galaxy S22,74202.0,,24655.0,512.0,8.0,4124.0,,64,4.7,25421,116024,Offline,Asia,Albania,2024-06-28,1,25.0,3.03
+Samsung,Galaxy A52,,42309.0,68265.0,512.0,12.0,5715.0,6.8,108,4.7,18938,399228,Retail Store,Asia,,2023-01-26,1,40.0,4.8
+Samsung,Galaxy Z Flip,63394.0,30215.0,33179.0,128.0,12.0,,6.7,108,4.9,21594,98498,Offline,South America,Canada,2022-05-24,1,28.0,2.94
+Samsung,Galaxy A52,67758.0,38853.0,28905.0,512.0,8.0,5728.0,6.8,108,4.0,27111,575886,Online,South America,Azerbaijan,2021-12-27,1,,4.57
+Samsung,Galaxy A72,33477.0,20840.0,12637.0,256.0,8.0,3569.0,6.7,64,3.8,25541,420437,Online,North America,,2022-08-06,2,6.0,6.84
+Samsung,Galaxy S23,,,14537.0,512.0,8.0,5451.0,6.8,50,4.1,13909,178406,Offline,North America,North Macedonia,2022-03-30,2,21.0,5.38
+Samsung,Galaxy S21,66541.0,,34411.0,64.0,8.0,3638.0,6.7,64,4.5,8512,511666,Online,Europe,Benin,2025-01-24,2,38.0,4.64
+Samsung,Galaxy S23,61113.0,,13250.0,128.0,6.0,5505.0,6.8,50,4.1,8064,145775,Offline,South America,Reunion,2025-07-18,2,35.0,5.23
+Samsung,Galaxy A52,97495.0,51610.0,45885.0,512.0,8.0,5114.0,6.8,64,,16905,244481,Online,South America,Tonga,2024-08-30,1,5.0,5.36
+Samsung,Galaxy Z Flip,51090.0,22470.0,28620.0,,8.0,,6.6,64,4.4,9600,446195,Offline,Asia,Azerbaijan,2023-02-06,2,21.0,6.96
+Samsung,Galaxy A52,96415.0,47645.0,48770.0,512.0,12.0,3835.0,6.6,108,3.7,19662,299713,Online,Europe,French Guiana,2022-09-25,1,37.0,6.4
+Samsung,Galaxy S21,35512.0,30821.0,4691.0,512.0,,5978.0,6.8,64,4.6,27920,547088,Offline,North America,South Georgia and the South Sandwich Islands,2024-08-06,2,20.0,3.9
+Samsung,Galaxy S21,99651.0,51079.0,48572.0,512.0,12.0,5411.0,6.3,50,4.1,25072,185909,Online,Asia,Iran,2024-01-04,1,20.0,3.07
+Samsung,Galaxy S22,55597.0,26309.0,29288.0,64.0,8.0,4041.0,6.2,64,4.4,20847,180135,Retail Store,Europe,China,2025-10-15,2,11.0,9.94
+Samsung,Galaxy S22,105534.0,91753.0,,512.0,6.0,4107.0,6.3,50,4.3,25629,274194,Online,South America,Chile,2023-09-01,2,8.0,3.13
+Samsung,Galaxy S22,51179.0,37167.0,14012.0,128.0,12.0,5962.0,6.2,108,4.5,18378,406882,Retail Store,North America,Myanmar,2025-09-16,2,25.0,2.05
+Samsung,Galaxy A52,75866.0,31570.0,44296.0,256.0,,5306.0,6.5,50,3.9,20345,107547,Offline,Asia,Saint Martin,2023-11-15,2,7.0,7.05
+Samsung,Galaxy S23,76008.0,60211.0,15797.0,512.0,12.0,5361.0,6.8,64,4.7,13219,249027,Online,South America,Bahamas,2024-04-27,2,34.0,7.92
+Samsung,Galaxy S21,105646.0,32398.0,73248.0,64.0,6.0,4069.0,6.2,108,4.4,10842,461966,Online,Asia,Kyrgyz Republic,2024-11-13,1,39.0,7.29
+Samsung,Galaxy A72,73112.0,46671.0,26441.0,512.0,12.0,5173.0,6.1,50,4.4,26685,219698,Offline,North America,Malawi,2025-03-28,1,40.0,3.77
+Samsung,Galaxy S23,113461.0,,54712.0,64.0,6.0,3530.0,6.6,50,,4475,336790,Offline,South America,Ireland,2025-09-06,1,29.0,3.89
+Samsung,Galaxy A52,51562.0,,8433.0,256.0,12.0,4335.0,6.3,64,4.5,6998,190681,Offline,South America,Samoa,2023-11-27,2,14.0,9.49
+Samsung,Galaxy S22,63397.0,36614.0,26783.0,128.0,6.0,4024.0,6.7,108,4.4,1795,282099,Retail Store,Asia,Latvia,2024-03-03,1,16.0,2.32
+Samsung,Galaxy A72,119341.0,45506.0,73835.0,128.0,6.0,5770.0,6.5,108,4.5,26509,593866,Retail Store,North America,Lao People's Democratic Republic,2023-02-02,2,20.0,3.58
+Samsung,Galaxy A52,84299.0,44129.0,40170.0,256.0,6.0,5801.0,6.4,64,4.8,24806,457369,Retail Store,Asia,,2023-01-27,1,37.0,6.13
+Samsung,Galaxy S22,105633.0,79123.0,26510.0,64.0,8.0,,,64,4.2,23550,367854,Offline,Asia,Bhutan,2025-02-06,1,5.0,7.74
+Samsung,Galaxy A52,38275.0,20415.0,17860.0,128.0,,5192.0,6.2,108,3.7,29249,467843,Retail Store,South America,Costa Rica,2023-09-16,1,6.0,7.19
+Samsung,Galaxy A52,53537.0,32204.0,21333.0,64.0,12.0,5318.0,6.3,64,3.7,13576,121492,Offline,Asia,El Salvador,2023-07-16,2,27.0,5.84
+Samsung,Galaxy S21,55910.0,41317.0,14593.0,512.0,6.0,5593.0,6.2,108,,16979,446114,Retail Store,North America,Guyana,2023-01-25,2,17.0,2.62
+Samsung,Galaxy A52,66388.0,56051.0,10337.0,128.0,6.0,4707.0,6.3,108,5.0,22894,453894,Online,South America,United States of America,2023-04-30,2,12.0,2.6
+Samsung,Galaxy S23,102000.0,39769.0,62231.0,128.0,,5525.0,6.5,108,4.2,9757,494075,Online,South America,,2022-10-29,2,10.0,7.11
+Samsung,Galaxy A72,89341.0,80658.0,8683.0,,6.0,3728.0,6.6,64,,5014,90250,Retail Store,South America,Korea,2024-11-24,1,18.0,2.49
+Samsung,Galaxy S21,72496.0,39887.0,32609.0,512.0,12.0,5400.0,6.7,50,4.9,18757,529397,Retail Store,Asia,Comoros,2025-05-10,2,5.0,2.32
+Samsung,Galaxy A52,90378.0,44322.0,46056.0,128.0,6.0,5382.0,6.2,64,3.7,4031,544550,Offline,Asia,Mali,2023-05-01,1,11.0,7.18
+Samsung,Galaxy S23,54528.0,43395.0,11133.0,512.0,6.0,5712.0,6.9,64,,6061,459754,Retail Store,South America,Netherlands Antilles,2024-03-04,1,37.0,5.12
+Samsung,Galaxy A72,115286.0,107992.0,7294.0,,8.0,4716.0,6.9,64,4.3,1663,82198,Online,Asia,Monaco,2024-07-25,1,,3.78
+Samsung,Galaxy S22,95799.0,75891.0,19908.0,64.0,6.0,4006.0,6.9,64,4.6,5124,305481,Offline,Asia,Turkmenistan,2023-09-30,1,9.0,2.02
+Samsung,Galaxy S21,81670.0,77296.0,4374.0,128.0,8.0,4236.0,6.9,50,4.1,17037,508343,Retail Store,Asia,Montserrat,2023-06-01,2,17.0,2.95
+Samsung,Galaxy S21,74509.0,67114.0,7395.0,256.0,6.0,3964.0,,50,3.7,11983,477380,Online,North America,Austria,2022-04-30,2,19.0,7.87
+Samsung,Galaxy S23,104668.0,27228.0,77440.0,512.0,12.0,5764.0,6.4,108,4.6,16348,514077,Retail Store,Europe,Afghanistan,2023-09-24,2,10.0,6.7
+Samsung,Galaxy S22,97011.0,58946.0,38065.0,128.0,,5958.0,6.2,64,3.9,5869,145197,Retail Store,Asia,Bulgaria,2025-10-05,2,29.0,6.55
+Samsung,Galaxy A52,,20238.0,50010.0,512.0,6.0,5920.0,6.2,50,3.5,26540,547850,Online,North America,Jersey,2024-03-01,1,13.0,3.83
+Samsung,Galaxy A52,85984.0,,,,8.0,5522.0,6.1,50,3.8,944,579364,Online,South America,South Africa,2025-04-18,1,21.0,7.33
+Samsung,Galaxy S21,72289.0,53989.0,18300.0,64.0,8.0,5008.0,,108,4.0,15461,364011,Offline,Asia,Lesotho,2024-11-20,2,24.0,1.85
+Samsung,Galaxy S22,89592.0,22357.0,67235.0,256.0,12.0,3816.0,6.2,50,4.9,29754,420405,Retail Store,Asia,Holy See (Vatican City State),2023-11-01,2,30.0,1.97
+Samsung,Galaxy A72,59394.0,23637.0,35757.0,256.0,6.0,4038.0,6.7,64,3.7,1968,173283,Retail Store,Asia,China,2024-03-31,2,,6.2
+Samsung,Galaxy A52,63637.0,43265.0,,256.0,8.0,4861.0,6.2,64,4.5,16050,163937,Offline,Europe,Dominica,2022-02-15,2,11.0,6.79
+Samsung,Galaxy A72,112572.0,105717.0,6855.0,128.0,8.0,5068.0,6.5,108,4.1,7409,425026,Offline,North America,Uganda,2025-06-14,1,16.0,3.32
+Samsung,Galaxy A52,30219.0,24623.0,5596.0,128.0,6.0,4294.0,6.6,64,3.7,3950,429474,Offline,South America,Niue,2024-08-07,2,13.0,2.91
+Samsung,Galaxy S23,105063.0,21784.0,83279.0,64.0,12.0,5300.0,6.8,64,3.6,15374,174340,Offline,Asia,Zimbabwe,2023-06-28,2,,9.13
+Samsung,Galaxy Z Flip,89095.0,51590.0,37505.0,256.0,6.0,4256.0,6.8,50,3.9,23026,378733,Online,Asia,Congo,2022-05-22,1,21.0,8.18
+Samsung,Galaxy S23,34993.0,30409.0,4584.0,256.0,8.0,4745.0,6.5,108,3.7,7278,496529,Retail Store,Europe,Turkmenistan,2022-03-11,1,14.0,7.29
+Samsung,Galaxy Z Flip,110045.0,29472.0,80573.0,,12.0,5740.0,6.5,108,3.9,12359,354508,Online,North America,,2022-09-07,1,32.0,2.84
+Samsung,Galaxy Z Flip,116205.0,39413.0,76792.0,64.0,8.0,5553.0,6.2,50,4.7,11776,327933,Offline,South America,Egypt,2024-02-01,1,11.0,4.54
+Samsung,Galaxy S21,73597.0,51597.0,,64.0,6.0,4975.0,6.8,108,3.8,25885,193237,Retail Store,Europe,Israel,2024-02-21,2,,8.92
+Samsung,Galaxy S21,76772.0,32658.0,44114.0,64.0,12.0,4885.0,6.5,50,4.3,16638,426910,Offline,Europe,Micronesia,2025-04-13,1,33.0,5.13
+Samsung,Galaxy S22,35804.0,26385.0,9419.0,128.0,12.0,5911.0,6.1,50,3.5,3425,390578,Offline,Asia,Cuba,2023-07-25,1,11.0,9.82
+Samsung,Galaxy Z Flip,102070.0,67243.0,34827.0,64.0,8.0,5355.0,6.9,108,4.5,13295,76141,Offline,South America,Turks and Caicos Islands,2024-07-19,1,9.0,8.87
+Samsung,Galaxy S21,97435.0,46100.0,51335.0,64.0,12.0,4624.0,6.1,108,4.1,18817,228014,Online,Europe,United Arab Emirates,2024-02-14,1,9.0,8.05
+Samsung,Galaxy S22,53779.0,30605.0,23174.0,512.0,8.0,3877.0,6.9,108,3.6,29342,367318,Offline,Asia,Uruguay,2025-10-29,1,38.0,8.2
+Samsung,Galaxy S22,78019.0,28836.0,49183.0,,8.0,4856.0,6.4,50,5.0,12460,185818,Retail Store,North America,Guam,2022-03-14,2,10.0,1.78
+Samsung,Galaxy S21,88740.0,51366.0,37374.0,128.0,8.0,4444.0,,50,3.7,8135,584048,Retail Store,Asia,Guinea-Bissau,2024-08-13,2,32.0,8.54
+Samsung,Galaxy S23,,90812.0,26878.0,64.0,8.0,5905.0,6.8,108,4.3,10405,128521,Online,North America,Cayman Islands,2022-08-05,1,16.0,4.91
+Samsung,Galaxy S21,50561.0,31201.0,19360.0,128.0,6.0,,6.5,108,5.0,15980,546680,Online,Europe,Bangladesh,2024-12-05,2,29.0,2.99
+Samsung,Galaxy A72,43341.0,38102.0,5239.0,,8.0,4541.0,6.1,108,3.8,2100,346182,Retail Store,Europe,Saint Kitts and Nevis,2023-07-25,2,15.0,5.37
+Samsung,Galaxy S23,48783.0,42661.0,6122.0,128.0,12.0,4861.0,6.9,108,3.6,16950,138418,Offline,South America,Sweden,2025-02-21,1,12.0,9.08
+Samsung,Galaxy S22,66447.0,24138.0,42309.0,512.0,6.0,3511.0,6.5,64,3.7,20184,428286,Online,Europe,Somalia,2022-04-20,1,27.0,5.2
+Samsung,Galaxy Z Flip,100488.0,65528.0,34960.0,,12.0,5022.0,6.5,108,3.8,9028,200855,Retail Store,North America,Argentina,2022-01-08,2,29.0,2.58
+Samsung,Galaxy S22,67203.0,38485.0,28718.0,512.0,6.0,5744.0,6.6,50,4.2,27489,517969,Online,Europe,Turkey,2024-12-25,2,33.0,2.41
+Samsung,Galaxy S23,109260.0,100762.0,8498.0,128.0,12.0,5882.0,6.2,108,4.3,19941,216344,Online,South America,Puerto Rico,2022-11-13,1,35.0,6.75
+Samsung,Galaxy A52,49719.0,,28424.0,64.0,,4201.0,6.7,50,4.2,19949,73812,Offline,Europe,French Polynesia,2025-06-01,2,8.0,6.79
+Samsung,Galaxy S22,79678.0,40038.0,39640.0,,12.0,4508.0,6.2,64,4.8,24574,112008,Retail Store,South America,Armenia,2022-05-04,1,13.0,8.68
+Samsung,Galaxy A72,109339.0,31037.0,78302.0,512.0,8.0,4704.0,6.7,64,4.0,25588,261071,Retail Store,South America,Afghanistan,2024-02-13,2,20.0,6.27
+Samsung,Galaxy Z Flip,80923.0,73145.0,7778.0,512.0,6.0,,,50,4.5,27251,289512,Online,Asia,China,2022-01-16,1,,4.76
+Samsung,Galaxy S23,86703.0,70807.0,15896.0,64.0,8.0,3803.0,6.1,64,4.4,8200,514981,Retail Store,South America,Cambodia,2022-05-26,2,,6.92
+Samsung,Galaxy A52,88103.0,70516.0,17587.0,,8.0,5758.0,6.7,50,3.6,19354,228246,Retail Store,Europe,Kyrgyz Republic,2024-04-23,2,15.0,9.83
+Samsung,Galaxy A72,66299.0,,26581.0,256.0,8.0,5874.0,6.6,50,4.7,11491,555208,Online,South America,United States Virgin Islands,2022-04-12,2,36.0,6.42
+Samsung,Galaxy A52,104044.0,65163.0,38881.0,256.0,6.0,5452.0,6.6,64,4.5,7731,356076,Offline,Asia,Jamaica,2024-07-26,2,23.0,5.2
+Samsung,Galaxy Z Flip,43491.0,,19726.0,,12.0,4530.0,6.3,64,4.4,1350,413906,Retail Store,Asia,Wallis and Futuna,2022-03-09,2,32.0,6.77
+Samsung,Galaxy Z Flip,68101.0,31545.0,,,12.0,5814.0,,108,4.1,19765,562665,Offline,Asia,Mozambique,2024-05-20,2,10.0,5.56
+Samsung,Galaxy S23,59066.0,46933.0,12133.0,64.0,,4148.0,6.4,64,4.8,29477,60893,Offline,South America,Montenegro,2023-07-31,1,33.0,7.0
+Samsung,Galaxy S23,69288.0,,5942.0,,12.0,5287.0,6.7,64,3.9,8407,455295,Retail Store,North America,Sudan,2024-08-12,2,17.0,3.73
+Samsung,Galaxy S21,114242.0,56496.0,57746.0,512.0,8.0,5726.0,6.7,64,4.8,12147,462713,Offline,Asia,Cambodia,2025-03-28,1,29.0,9.75
+Samsung,Galaxy Z Flip,35962.0,23783.0,12179.0,512.0,12.0,,,108,4.4,19250,56278,Retail Store,Europe,Cuba,2025-03-20,2,32.0,7.41
+Samsung,Galaxy A52,101593.0,69523.0,32070.0,256.0,8.0,4383.0,6.4,50,5.0,16788,159326,Online,Europe,Faroe Islands,2024-09-08,1,26.0,2.97
+Samsung,Galaxy S23,,40874.0,6193.0,64.0,6.0,5136.0,6.1,50,3.6,25153,311832,Offline,Europe,Taiwan,2022-07-06,1,,9.2
+Samsung,Galaxy A72,83453.0,,40502.0,128.0,6.0,4933.0,6.7,64,4.1,12928,499185,Retail Store,Asia,Malaysia,2023-12-05,1,20.0,9.85
+Samsung,Galaxy A72,36386.0,29516.0,6870.0,64.0,12.0,,6.1,50,3.9,29751,330885,Offline,South America,Korea,2023-06-06,2,38.0,4.24
+Samsung,Galaxy A52,111606.0,51235.0,60371.0,64.0,6.0,4663.0,6.6,108,4.8,8359,423821,Offline,North America,Timor-Leste,2023-09-30,2,11.0,3.65
+Samsung,Galaxy Z Flip,,21468.0,52582.0,,12.0,5093.0,6.4,108,4.5,26668,465539,Retail Store,North America,Guyana,2023-01-14,1,8.0,7.73
+Samsung,Galaxy A72,92942.0,45688.0,47254.0,64.0,12.0,5123.0,6.2,108,4.5,7852,88813,Retail Store,South America,Liberia,2025-04-28,1,18.0,5.13
+Samsung,Galaxy S22,55994.0,50840.0,5154.0,,6.0,,6.7,50,3.9,27435,67322,Retail Store,Europe,Ukraine,2022-05-31,2,,2.93
+Samsung,Galaxy S21,106333.0,91471.0,14862.0,64.0,8.0,4749.0,6.7,64,4.9,19522,471244,Online,Europe,Congo,2025-12-01,1,,6.76
+Samsung,Galaxy A52,69048.0,25740.0,43308.0,512.0,8.0,,6.7,50,4.7,29511,319227,Online,South America,,2025-07-12,2,36.0,1.7
+Samsung,Galaxy S21,38615.0,31924.0,,512.0,6.0,5996.0,6.6,50,4.4,18301,308366,Offline,Europe,Peru,2023-05-17,1,36.0,1.56
+Samsung,Galaxy Z Flip,118590.0,95574.0,23016.0,512.0,8.0,4514.0,6.3,50,3.9,7907,425735,Retail Store,Asia,Dominican Republic,2025-08-22,2,28.0,3.55
+Samsung,Galaxy Z Flip,43689.0,,16906.0,64.0,8.0,5028.0,6.5,50,4.9,15175,176527,Online,Asia,,2023-01-04,1,17.0,3.72
+Samsung,Galaxy A52,54404.0,45353.0,9051.0,256.0,12.0,4658.0,6.3,108,4.4,3787,187399,Online,Europe,Swaziland,2023-06-29,2,39.0,8.09
+Samsung,Galaxy A52,33433.0,,13047.0,,8.0,4836.0,6.8,64,4.0,1857,84660,Offline,South America,Seychelles,2025-04-22,1,14.0,6.05
+Samsung,Galaxy A52,106554.0,76018.0,30536.0,256.0,6.0,4701.0,,108,4.4,4523,60963,Online,North America,Palau,2023-12-30,2,26.0,2.73
+Samsung,Galaxy S23,81038.0,41455.0,39583.0,256.0,6.0,,6.3,108,4.9,17078,398655,Online,Europe,Guernsey,2024-01-22,1,10.0,2.4
+Samsung,Galaxy S23,109628.0,26304.0,83324.0,,8.0,4899.0,6.5,50,3.7,7711,101727,Online,Europe,French Polynesia,2025-07-06,2,12.0,3.27
+Samsung,Galaxy A72,85680.0,63691.0,21989.0,256.0,6.0,3829.0,6.4,64,5.0,14732,123582,Offline,North America,Myanmar,2022-02-27,1,37.0,5.14
+Samsung,Galaxy S21,40322.0,31919.0,8403.0,64.0,8.0,,6.1,64,4.9,12205,254216,Offline,South America,New Caledonia,2024-09-06,1,24.0,4.81
+Samsung,Galaxy S22,59650.0,30638.0,29012.0,128.0,12.0,4529.0,6.8,108,4.1,1056,417893,Retail Store,Europe,Sao Tome and Principe,2023-05-27,2,21.0,2.8
+Samsung,Galaxy S23,99682.0,26896.0,72786.0,256.0,8.0,5196.0,6.4,50,4.0,10606,541438,Offline,Asia,Armenia,2022-10-07,1,39.0,7.46
+Samsung,Galaxy Z Flip,116051.0,54161.0,61890.0,256.0,12.0,4985.0,6.8,64,4.5,29839,192072,Offline,South America,Reunion,2023-11-02,2,29.0,8.02
+Samsung,Galaxy S23,83128.0,42269.0,40859.0,128.0,8.0,3708.0,6.1,50,4.2,3539,599503,Online,Europe,New Caledonia,2024-04-29,2,31.0,4.46
+Samsung,Galaxy S23,102194.0,57943.0,44251.0,512.0,12.0,4544.0,6.8,64,3.9,7423,105333,Retail Store,North America,Philippines,2023-09-21,2,37.0,7.76
+Samsung,Galaxy S23,46262.0,39464.0,6798.0,128.0,8.0,5741.0,6.6,50,4.0,12015,593714,Retail Store,North America,Nauru,2024-12-10,1,15.0,6.24
+Samsung,Galaxy A52,104036.0,25592.0,,64.0,6.0,3911.0,6.4,108,4.5,1138,47470,Offline,North America,Saudi Arabia,2022-11-09,2,35.0,2.77
+Samsung,Galaxy S22,71944.0,28641.0,43303.0,256.0,8.0,5339.0,6.3,108,4.5,10692,461181,Offline,North America,Tanzania,2022-01-19,2,32.0,3.29
+Samsung,Galaxy S22,68415.0,41294.0,27121.0,256.0,8.0,4704.0,6.4,108,3.8,29628,500078,Retail Store,North America,Australia,2025-03-14,2,31.0,7.89
+Samsung,Galaxy Z Flip,80391.0,68572.0,11819.0,64.0,6.0,5730.0,6.1,50,4.8,23304,134857,Offline,Asia,Venezuela,2021-12-23,1,9.0,4.01
+Samsung,Galaxy S21,36106.0,30812.0,5294.0,256.0,8.0,3800.0,6.3,50,5.0,20905,537268,Offline,South America,Turkey,2025-11-21,2,21.0,8.13
+Samsung,Galaxy A52,,56457.0,20697.0,512.0,12.0,3843.0,6.2,108,4.8,11492,580815,Online,Asia,Faroe Islands,2023-07-24,1,19.0,3.73
+Samsung,Galaxy S22,34201.0,22269.0,11932.0,128.0,6.0,5890.0,6.2,50,4.9,23415,352091,Retail Store,Asia,Nigeria,2025-07-24,1,32.0,4.63
+Samsung,Galaxy S22,35460.0,,4759.0,256.0,12.0,4149.0,6.6,108,3.5,21346,178834,Offline,Europe,Georgia,2022-07-23,2,29.0,7.82
+Samsung,Galaxy A72,82529.0,41663.0,40866.0,128.0,6.0,4883.0,6.2,108,,2939,90721,Offline,Asia,,2023-09-14,2,27.0,9.98
+Samsung,Galaxy S23,38415.0,27416.0,10999.0,256.0,12.0,,6.9,108,,7413,387978,Online,Europe,Solomon Islands,2022-12-14,1,15.0,7.09
+Samsung,Galaxy S21,38782.0,22745.0,16037.0,256.0,6.0,4025.0,6.6,108,3.6,23634,596640,Offline,Europe,San Marino,2024-08-04,1,19.0,6.52
+Samsung,Galaxy A72,114291.0,29718.0,84573.0,64.0,12.0,5739.0,6.8,50,4.9,10773,30983,Retail Store,North America,North Macedonia,2022-10-27,2,40.0,2.49
+Samsung,Galaxy Z Flip,64224.0,34212.0,30012.0,128.0,6.0,4337.0,6.6,50,4.3,6790,301578,Online,North America,Congo,2024-10-22,2,,3.83
+Samsung,Galaxy S22,98468.0,61693.0,36775.0,64.0,6.0,3708.0,6.4,64,4.6,8787,181784,Offline,North America,Marshall Islands,2023-08-26,1,15.0,2.39
+Samsung,Galaxy S21,,24094.0,,128.0,6.0,4237.0,6.8,64,4.0,25410,365007,Offline,Europe,North Macedonia,2025-12-01,2,27.0,9.65
+Samsung,Galaxy S22,35691.0,21763.0,13928.0,256.0,8.0,5643.0,6.7,108,4.8,2629,115263,Retail Store,North America,,2022-04-08,2,21.0,5.83
+Samsung,Galaxy Z Flip,49221.0,,21754.0,128.0,6.0,5454.0,6.4,108,3.6,14220,215254,Online,Asia,Azerbaijan,2023-04-08,2,8.0,7.96
+Samsung,Galaxy S23,43566.0,30253.0,13313.0,256.0,12.0,5128.0,6.4,64,4.8,6669,453501,Online,Asia,,2024-09-14,2,37.0,9.37
+Samsung,Galaxy S23,69405.0,43308.0,26097.0,512.0,,,6.2,50,4.2,1664,343850,Offline,North America,,2024-07-16,2,38.0,5.76
+Samsung,Galaxy A72,87848.0,59538.0,28310.0,,6.0,3520.0,6.8,108,3.7,29695,424068,Offline,North America,Puerto Rico,2022-02-25,1,22.0,3.45
+Samsung,Galaxy S22,78472.0,74298.0,4174.0,512.0,12.0,4159.0,6.9,50,4.4,5891,109775,Online,North America,Brazil,2024-06-29,1,29.0,2.38
+Samsung,Galaxy A52,69787.0,20647.0,49140.0,128.0,12.0,5986.0,6.7,50,,21377,182274,Retail Store,Europe,Sierra Leone,2022-09-15,2,35.0,2.65
+Samsung,Galaxy S23,91117.0,26256.0,64861.0,64.0,12.0,3818.0,6.7,50,3.5,7052,408455,Online,South America,Niger,2025-07-30,2,28.0,8.39
+Samsung,Galaxy S23,69758.0,44401.0,25357.0,64.0,12.0,5481.0,6.6,50,4.7,28143,247632,Retail Store,Europe,Uganda,2022-08-11,1,25.0,9.75
+Samsung,Galaxy A52,56754.0,52711.0,4043.0,512.0,12.0,3798.0,6.4,50,4.5,2256,257115,Retail Store,South America,Tanzania,2024-04-03,1,10.0,6.54
+Samsung,Galaxy A72,119662.0,56982.0,,512.0,8.0,5170.0,6.8,50,4.5,1966,264029,Offline,South America,Brunei Darussalam,2022-03-13,2,30.0,6.02
+Samsung,Galaxy Z Flip,44669.0,20282.0,24387.0,128.0,8.0,3634.0,6.6,50,3.7,21859,505984,Online,Europe,El Salvador,2024-08-02,1,27.0,5.71
+Samsung,Galaxy S23,80156.0,66182.0,13974.0,64.0,8.0,5373.0,6.4,64,3.6,3602,57386,Retail Store,South America,Latvia,2024-11-01,2,25.0,9.04
+Samsung,Galaxy S23,44441.0,39225.0,5216.0,256.0,12.0,5831.0,6.4,50,4.8,21630,160072,Online,South America,Andorra,2025-03-18,2,37.0,4.27
+Samsung,Galaxy S21,103373.0,24721.0,78652.0,256.0,6.0,5753.0,6.9,108,4.9,18091,399410,Offline,South America,Kuwait,2024-01-03,2,10.0,4.88
+Samsung,Galaxy Z Flip,72170.0,53146.0,19024.0,256.0,12.0,4980.0,6.1,50,3.8,1379,68050,Offline,North America,Albania,2022-12-19,1,20.0,4.39
+Samsung,Galaxy S23,51799.0,25553.0,26246.0,64.0,12.0,,6.9,50,,11347,438354,Retail Store,North America,Latvia,2024-11-16,2,37.0,6.07
+Samsung,Galaxy A52,67180.0,41928.0,25252.0,128.0,12.0,5793.0,6.2,108,4.2,11448,293903,Online,North America,Vanuatu,2024-12-11,2,,4.92
+Samsung,Galaxy S22,93406.0,47807.0,,512.0,6.0,5887.0,6.7,50,3.5,14354,103221,Offline,Asia,Haiti,2022-09-26,1,34.0,5.36
+Samsung,Galaxy S22,68722.0,,17690.0,128.0,8.0,,6.9,50,,26893,486070,Offline,Asia,Niue,2024-10-08,1,22.0,5.14
+Samsung,Galaxy Z Flip,94525.0,37929.0,56596.0,512.0,,5093.0,,50,3.8,14906,167484,Offline,Asia,Saudi Arabia,2024-10-28,1,14.0,7.41
+Samsung,Galaxy S23,118614.0,98621.0,19993.0,128.0,12.0,4538.0,6.6,64,,17086,568974,Online,North America,North Macedonia,2024-01-28,1,30.0,4.77
+Samsung,Galaxy A72,38357.0,21835.0,16522.0,256.0,8.0,,,50,4.7,20255,329771,Offline,Asia,,2024-03-21,1,35.0,9.21
+Samsung,Galaxy A72,39209.0,25410.0,,512.0,6.0,3654.0,6.8,64,4.9,10867,554204,Retail Store,North America,,2025-05-12,2,32.0,9.54
+Samsung,Galaxy S22,96099.0,33831.0,62268.0,,12.0,5082.0,6.6,108,4.5,23483,66795,Retail Store,South America,Liechtenstein,2022-05-27,1,29.0,5.11
+Samsung,Galaxy A72,34765.0,28076.0,6689.0,512.0,6.0,4495.0,6.7,108,4.5,21854,105762,Online,Asia,Cambodia,2022-06-19,1,24.0,9.36
+Samsung,Galaxy Z Flip,119963.0,95059.0,24904.0,128.0,12.0,5973.0,6.7,64,3.7,20919,444860,Offline,North America,Netherlands Antilles,2024-05-29,2,19.0,2.51
+Samsung,Galaxy S22,48690.0,36432.0,12258.0,256.0,12.0,5526.0,6.9,64,3.8,13136,82873,Retail Store,South America,Congo,2022-08-01,1,11.0,5.58
+Samsung,Galaxy S22,78673.0,48326.0,30347.0,,6.0,5503.0,6.9,50,4.1,6633,151573,Retail Store,Asia,Australia,2022-04-10,2,39.0,8.38
+Samsung,Galaxy A52,,53594.0,36908.0,256.0,12.0,4847.0,6.6,108,4.0,19539,365551,Offline,Europe,Kazakhstan,2023-03-26,2,,2.61
+Samsung,Galaxy Z Flip,83625.0,43754.0,39871.0,64.0,12.0,4146.0,6.5,50,,4892,213465,Retail Store,North America,Peru,2022-03-25,2,17.0,4.59
+Samsung,Galaxy S21,106134.0,70568.0,35566.0,,8.0,4754.0,6.2,64,4.8,11418,421406,Offline,South America,Pitcairn Islands,2022-12-27,1,10.0,4.5
+Samsung,Galaxy S23,86802.0,42708.0,,64.0,12.0,4295.0,6.2,50,4.9,22851,15711,Offline,Europe,Swaziland,2024-05-17,2,14.0,8.51
+Samsung,Galaxy S22,73073.0,33004.0,40069.0,512.0,8.0,,6.7,64,3.7,12956,187052,Offline,South America,,2025-03-10,1,12.0,2.62
+Samsung,Galaxy S21,66898.0,49707.0,17191.0,512.0,8.0,3616.0,6.3,108,4.7,29483,115008,Retail Store,Europe,New Caledonia,2023-10-04,1,5.0,7.03
+Samsung,Galaxy S22,58441.0,22950.0,35491.0,512.0,8.0,5995.0,6.3,108,4.6,14520,430030,Offline,Asia,Jordan,2022-06-28,2,40.0,4.71
+Samsung,Galaxy S21,104276.0,78808.0,25468.0,64.0,6.0,4446.0,6.8,108,3.7,2542,240070,Online,North America,Lebanon,2024-04-28,2,36.0,8.96
+Samsung,Galaxy A52,58160.0,22492.0,35668.0,64.0,12.0,3694.0,6.3,64,4.5,17907,202100,Online,North America,Peru,2025-02-17,1,20.0,6.02
+Samsung,Galaxy S21,114444.0,75112.0,39332.0,,8.0,4240.0,6.8,64,3.5,17390,205768,Online,Asia,Cambodia,2023-05-14,1,11.0,9.21
+Samsung,Galaxy A52,96891.0,34456.0,62435.0,256.0,12.0,5100.0,6.8,50,,26850,267191,Online,North America,Malawi,2022-12-01,2,39.0,6.37
+Samsung,Galaxy S23,38837.0,32128.0,6709.0,512.0,12.0,4527.0,6.1,50,4.3,12826,294108,Online,North America,Montenegro,2024-03-28,2,12.0,1.77
+Samsung,Galaxy Z Flip,76136.0,45140.0,,512.0,12.0,5311.0,6.7,50,3.6,11993,590214,Offline,Asia,Sri Lanka,2022-10-25,2,30.0,2.08
+Samsung,Galaxy S23,35302.0,27952.0,7350.0,256.0,8.0,5540.0,6.4,108,4.5,20174,177528,Online,South America,Bolivia,2022-06-02,1,6.0,4.89
+Samsung,Galaxy S23,50035.0,27948.0,22087.0,128.0,12.0,3923.0,6.3,50,3.7,22946,110053,Online,South America,Congo,2024-12-11,1,21.0,3.44
+Samsung,Galaxy S22,80063.0,34723.0,45340.0,64.0,8.0,5779.0,6.5,64,4.5,4100,396256,Offline,North America,French Guiana,2025-07-07,2,20.0,2.16
+Samsung,Galaxy S22,70850.0,53401.0,,256.0,,5987.0,6.1,50,3.9,7377,21671,Retail Store,Europe,,2022-06-15,1,36.0,3.11
+Samsung,Galaxy A52,107203.0,,12644.0,128.0,,5750.0,6.7,108,4.1,8451,28838,Online,South America,Falkland Islands (Malvinas),2025-11-11,2,,5.64
+Samsung,Galaxy S23,74790.0,53630.0,21160.0,512.0,12.0,,6.4,108,4.9,3707,515345,Online,Europe,Brazil,2023-07-04,1,14.0,3.13
+Samsung,Galaxy S22,52938.0,44611.0,,256.0,8.0,5183.0,6.4,108,4.3,18781,66023,Offline,Europe,Jersey,2024-11-22,2,29.0,1.53
+Samsung,Galaxy A72,109342.0,94267.0,15075.0,256.0,8.0,4721.0,6.5,50,4.2,15020,507102,Retail Store,North America,Dominica,2025-05-27,2,19.0,5.47
+Samsung,Galaxy A52,84464.0,,10525.0,256.0,8.0,,6.5,108,4.1,17449,109669,Retail Store,South America,Bhutan,2024-05-09,1,26.0,4.76
+Samsung,Galaxy Z Flip,102772.0,86345.0,16427.0,512.0,12.0,4208.0,6.6,108,4.6,6832,224493,Offline,North America,Luxembourg,2022-08-19,2,31.0,9.38
+Samsung,Galaxy S21,60310.0,40739.0,19571.0,,6.0,3793.0,,50,4.8,14628,260162,Online,North America,Palau,2023-08-08,2,13.0,5.04
+Samsung,Galaxy Z Flip,79672.0,56926.0,22746.0,,6.0,5246.0,6.8,50,,1533,191819,Offline,South America,Micronesia,2023-03-20,2,32.0,7.13
+Samsung,Galaxy S23,,23285.0,14136.0,128.0,12.0,,6.2,108,4.7,21344,563155,Retail Store,Asia,Turkmenistan,2025-10-01,2,24.0,7.06
+Samsung,Galaxy S21,,36553.0,37582.0,512.0,12.0,5011.0,6.1,50,4.3,5303,12010,Offline,Asia,Kiribati,2023-09-12,2,32.0,9.6
+Samsung,Galaxy S23,72702.0,22042.0,50660.0,256.0,6.0,3863.0,6.3,108,4.8,5079,424285,Offline,North America,Bermuda,2025-01-26,1,,6.62
+Samsung,Galaxy A72,52376.0,21446.0,30930.0,512.0,6.0,4426.0,6.4,64,3.8,20741,262090,Offline,North America,Mali,2022-09-04,2,22.0,5.35
+Samsung,Galaxy A72,75450.0,29091.0,46359.0,512.0,8.0,5617.0,6.1,50,4.4,26186,502613,Retail Store,Asia,,2025-01-24,1,14.0,7.71
+Samsung,Galaxy S21,60622.0,50614.0,10008.0,64.0,8.0,5594.0,6.8,50,3.7,5064,121551,Offline,North America,Tunisia,2024-12-23,1,39.0,5.93
+Samsung,Galaxy S22,80934.0,23270.0,57664.0,512.0,,4202.0,6.9,50,4.8,6227,178645,Offline,South America,United States Minor Outlying Islands,2022-09-25,2,7.0,8.57
+Samsung,Galaxy S23,41543.0,24006.0,17537.0,256.0,8.0,5022.0,6.4,64,3.8,28406,245221,Offline,North America,Libyan Arab Jamahiriya,2024-09-25,2,31.0,3.65
+Samsung,Galaxy A52,81774.0,28215.0,53559.0,64.0,6.0,5376.0,6.4,64,3.6,1027,320877,Offline,Europe,Myanmar,2022-07-08,1,11.0,8.27
+Samsung,Galaxy S23,30508.0,21049.0,9459.0,64.0,12.0,4337.0,6.6,50,5.0,19722,542508,Online,North America,Eritrea,2023-02-15,2,,9.22
+Samsung,Galaxy S23,83470.0,31748.0,51722.0,512.0,12.0,4235.0,6.6,50,3.8,24103,341469,Offline,Asia,North Macedonia,2025-07-28,1,29.0,9.88
+Samsung,Galaxy S22,99396.0,57389.0,42007.0,128.0,6.0,,6.1,108,4.5,18982,51682,Retail Store,North America,Saint Martin,2024-07-11,2,14.0,6.27
+Samsung,Galaxy S22,39878.0,28280.0,11598.0,64.0,12.0,4610.0,6.2,50,3.5,9046,477066,Offline,North America,Iceland,2023-08-09,1,17.0,6.7
+Samsung,Galaxy A52,94372.0,63472.0,30900.0,512.0,6.0,4243.0,6.6,64,4.2,6235,156101,Retail Store,South America,Togo,2025-09-30,2,40.0,7.24
+Samsung,Galaxy S23,65883.0,37255.0,28628.0,256.0,6.0,3599.0,6.6,50,3.8,20298,248404,Retail Store,North America,Palestinian Territory,2024-07-06,1,14.0,6.47
+Samsung,Galaxy A52,44992.0,25512.0,,512.0,12.0,5195.0,6.3,50,3.7,29687,106963,Online,Asia,Norway,2025-12-02,2,23.0,2.22
+Samsung,Galaxy Z Flip,62916.0,55140.0,7776.0,64.0,6.0,5921.0,,108,4.1,8746,39571,Offline,South America,Germany,2022-05-12,2,8.0,6.26
+Samsung,Galaxy S23,43698.0,20361.0,23337.0,128.0,8.0,5909.0,6.7,108,5.0,27704,500933,Offline,South America,Afghanistan,2025-09-17,1,5.0,7.44
+Samsung,Galaxy S23,48035.0,26926.0,21109.0,256.0,8.0,4828.0,6.8,64,4.9,13515,72287,Retail Store,North America,Finland,2022-02-18,2,7.0,3.86
+Samsung,Galaxy S21,70058.0,50164.0,19894.0,256.0,8.0,4186.0,6.1,108,4.9,4691,19534,Retail Store,Europe,Honduras,2023-07-29,1,12.0,9.77
+Samsung,Galaxy S23,36270.0,23292.0,12978.0,64.0,6.0,5495.0,6.1,64,4.5,2245,543221,Retail Store,Europe,,2023-07-28,2,32.0,3.23
+Samsung,Galaxy A52,,101413.0,4547.0,64.0,12.0,5582.0,6.6,64,4.6,19022,264685,Retail Store,South America,Ethiopia,2024-08-22,1,39.0,4.71
+Samsung,Galaxy S23,36694.0,30480.0,6214.0,512.0,6.0,5415.0,6.4,108,4.1,21467,471611,Offline,North America,Zimbabwe,2024-03-19,1,11.0,2.11
+Samsung,Galaxy Z Flip,,33381.0,39798.0,64.0,8.0,5054.0,6.7,64,4.8,24700,460468,Offline,South America,Peru,2023-03-07,2,14.0,4.08
+Samsung,Galaxy A72,73267.0,46756.0,,128.0,8.0,4654.0,,50,4.2,21694,341725,Retail Store,North America,Benin,2023-07-29,2,30.0,5.23
+Samsung,Galaxy A72,52892.0,37657.0,15235.0,64.0,8.0,5622.0,6.2,64,3.8,8011,90468,Retail Store,Europe,Portugal,2023-10-09,1,37.0,8.41
+Samsung,Galaxy S21,55576.0,51018.0,4558.0,128.0,6.0,5334.0,6.8,108,5.0,22040,551038,Offline,Asia,Martinique,2023-03-14,1,13.0,8.08
+Samsung,Galaxy S23,37887.0,25835.0,12052.0,128.0,12.0,,6.6,64,4.0,11248,478652,Online,Europe,Denmark,2022-08-25,2,9.0,3.93
+Samsung,Galaxy A72,95390.0,60695.0,34695.0,512.0,6.0,3521.0,6.4,64,4.8,29300,253466,Online,Asia,Czech Republic,2025-12-10,1,31.0,3.81
+Samsung,Galaxy A72,108093.0,,41432.0,512.0,6.0,3630.0,6.2,108,3.7,6228,574093,Offline,South America,British Virgin Islands,2022-01-21,2,24.0,3.17
+Samsung,Galaxy A52,73855.0,56155.0,17700.0,64.0,6.0,3886.0,6.8,108,4.2,24808,65044,Offline,Europe,,2025-08-16,2,33.0,5.0
+Samsung,Galaxy Z Flip,83932.0,,45493.0,512.0,,4584.0,6.7,108,4.6,22697,231127,Online,South America,Iraq,2024-07-11,2,21.0,1.81
+Samsung,Galaxy A52,97339.0,71402.0,25937.0,64.0,6.0,3853.0,6.2,108,4.4,9431,416505,Offline,Asia,Albania,2023-05-15,1,18.0,8.81
+Samsung,Galaxy S21,96307.0,73829.0,22478.0,64.0,12.0,3693.0,6.8,50,4.4,14705,320602,Retail Store,Europe,Sierra Leone,2025-01-26,2,8.0,3.29
+Samsung,Galaxy Z Flip,116087.0,40667.0,75420.0,512.0,8.0,3924.0,6.3,50,4.4,11325,121482,Online,South America,Heard Island and McDonald Islands,2023-05-20,1,,5.46
+Samsung,Galaxy Z Flip,99378.0,48036.0,51342.0,256.0,8.0,5483.0,6.5,64,4.3,6421,211429,Offline,North America,Malaysia,2024-05-15,2,37.0,8.21
+Samsung,Galaxy S21,116832.0,88692.0,28140.0,256.0,6.0,5901.0,6.3,64,4.9,15426,169491,Offline,North America,Germany,2022-07-05,1,30.0,6.61
+Samsung,Galaxy A72,75818.0,50599.0,25219.0,64.0,6.0,5952.0,6.7,108,5.0,23573,292616,Retail Store,Asia,Congo,2022-04-11,1,10.0,7.73
+Samsung,Galaxy Z Flip,35859.0,21134.0,14725.0,512.0,12.0,4538.0,6.2,64,4.9,18610,71615,Online,Asia,Dominican Republic,2024-02-03,2,29.0,4.79
+Samsung,Galaxy S22,31007.0,24816.0,6191.0,256.0,6.0,4211.0,6.2,108,3.6,24076,566106,Offline,North America,Guyana,2025-04-25,1,33.0,5.29
+Samsung,Galaxy Z Flip,65510.0,56119.0,9391.0,512.0,12.0,5298.0,6.5,108,4.2,27194,90676,Retail Store,North America,,2022-11-24,1,,4.24
+Samsung,Galaxy S22,41972.0,24971.0,17001.0,512.0,12.0,5573.0,,64,4.5,11321,294274,Online,North America,Vanuatu,2025-11-10,1,21.0,3.67
+Samsung,Galaxy S21,107831.0,33352.0,74479.0,256.0,8.0,3600.0,6.2,108,4.7,9063,129050,Offline,Asia,Senegal,2023-04-26,2,30.0,9.95
+Samsung,Galaxy S23,,78475.0,17183.0,128.0,12.0,3531.0,6.9,64,3.6,26625,373431,Online,South America,Uganda,2022-09-09,2,9.0,5.28
+Samsung,Galaxy S21,46819.0,22056.0,24763.0,64.0,8.0,4418.0,6.4,64,4.3,16060,574047,Offline,Europe,Algeria,2024-12-25,1,12.0,8.37
+Samsung,Galaxy S21,,46671.0,70148.0,128.0,,3959.0,6.9,50,4.3,21790,325601,Offline,Europe,Liechtenstein,2025-08-23,2,34.0,6.59
+Samsung,Galaxy S23,,66228.0,25722.0,128.0,8.0,5212.0,6.2,108,3.8,939,543738,Offline,North America,Mozambique,2022-01-04,1,21.0,8.35
+Samsung,Galaxy S22,,23769.0,22520.0,512.0,6.0,4272.0,6.4,64,3.7,21051,505818,Offline,North America,Nigeria,2022-06-15,1,27.0,8.2
+Samsung,Galaxy A52,57756.0,39137.0,,256.0,8.0,3989.0,6.7,108,4.0,28405,211054,Retail Store,Asia,Estonia,2025-06-02,1,25.0,1.84
+Samsung,Galaxy S23,109153.0,63328.0,45825.0,128.0,12.0,4769.0,6.6,108,4.1,22912,366017,Retail Store,Europe,,2025-09-17,1,40.0,8.74
+Samsung,Galaxy S21,68198.0,49054.0,,64.0,6.0,5358.0,6.1,64,4.9,14002,143122,Offline,Asia,Korea,2022-04-03,1,23.0,6.87
+Samsung,Galaxy S21,82934.0,,21406.0,256.0,12.0,3937.0,6.9,108,4.5,25977,470544,Offline,Asia,Slovenia,2022-11-25,1,36.0,7.6
+Samsung,Galaxy A52,111406.0,,24997.0,256.0,6.0,4318.0,,64,4.6,23176,466823,Online,Asia,Pakistan,2023-08-01,2,26.0,9.54
+Samsung,Galaxy A52,48490.0,26681.0,21809.0,128.0,12.0,5521.0,6.3,108,4.6,1505,382279,Offline,South America,Luxembourg,2022-07-15,2,30.0,5.3
+Samsung,Galaxy A72,45265.0,25711.0,19554.0,256.0,12.0,4490.0,6.5,50,3.7,29553,119155,Online,North America,French Polynesia,2023-10-05,1,14.0,2.83
+Samsung,Galaxy S22,45448.0,39629.0,5819.0,64.0,8.0,5464.0,6.6,50,4.6,28300,50345,Offline,Asia,North Macedonia,2024-11-15,1,32.0,1.67
+Samsung,Galaxy Z Flip,102448.0,30590.0,71858.0,512.0,12.0,5109.0,,50,4.5,2819,164630,Offline,Asia,Turkey,2024-06-16,1,23.0,7.65
+Samsung,Galaxy Z Flip,41567.0,24115.0,17452.0,512.0,6.0,5236.0,6.9,50,4.4,14605,450860,Retail Store,South America,Syrian Arab Republic,2022-01-14,1,24.0,5.37
+Samsung,Galaxy S22,37251.0,24215.0,,256.0,6.0,4455.0,6.6,50,4.4,914,235320,Online,Asia,Antarctica (the territory South of 60 deg S),2023-02-24,2,23.0,7.69
+Samsung,Galaxy A52,52504.0,21165.0,31339.0,64.0,12.0,4699.0,6.2,108,4.2,13151,532620,Offline,Asia,Moldova,2021-12-29,2,16.0,8.48
+Samsung,Galaxy S23,85602.0,76257.0,9345.0,128.0,12.0,4528.0,6.3,108,3.6,21150,209781,Offline,South America,Guadeloupe,2022-11-28,2,39.0,1.57
+Samsung,Galaxy S21,76691.0,42450.0,34241.0,512.0,6.0,,6.2,50,4.7,29284,206373,Online,Europe,Heard Island and McDonald Islands,2022-02-17,1,15.0,1.66
+Samsung,Galaxy A72,77177.0,46012.0,31165.0,512.0,12.0,4071.0,6.5,64,3.8,11304,501098,Retail Store,North America,,2024-05-06,1,,5.89
+Samsung,Galaxy A72,50344.0,26915.0,23429.0,256.0,6.0,5550.0,6.8,108,4.6,22725,382703,Offline,South America,Uzbekistan,2023-09-02,1,28.0,2.69
+Samsung,Galaxy S22,45206.0,37681.0,7525.0,64.0,12.0,4419.0,6.5,108,4.7,6090,123150,Offline,Europe,American Samoa,2025-01-13,2,,2.61
+Samsung,Galaxy S21,49178.0,25264.0,23914.0,512.0,12.0,3558.0,6.8,108,4.8,20683,181180,Offline,South America,Chad,2022-04-19,1,9.0,8.25
+Samsung,Galaxy S23,54979.0,27070.0,27909.0,64.0,12.0,3512.0,6.3,50,4.9,21605,327513,Offline,Europe,Antigua and Barbuda,2025-11-09,2,11.0,2.41
+Samsung,Galaxy S21,85808.0,35504.0,50304.0,64.0,12.0,5555.0,6.3,108,4.6,15826,402204,Retail Store,North America,Andorra,2023-11-14,1,32.0,2.65
+Samsung,Galaxy A52,59401.0,52232.0,7169.0,128.0,12.0,5639.0,,50,,28861,361065,Offline,North America,Burkina Faso,2025-01-18,2,23.0,1.94
+Samsung,Galaxy S22,73589.0,31772.0,41817.0,128.0,6.0,4251.0,6.2,64,4.4,12169,387772,Offline,South America,New Zealand,2022-11-09,2,16.0,6.78
